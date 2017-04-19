@@ -2,6 +2,8 @@
 date = "2017-04-13T00:05:45+03:00"
 title = "About"
 hidden = true
+url = "/bio/"
+type = "about"
 +++
 
 ___tl;dr:___ I love making cool stuff, reading books, competitive swimming, watching anime, and playing the guitar. Oh, I love GNU/ Linux, GNU Emacs and free(as in GNU free) software. [Fully recovered] typography nerd. I'm also a wannabe Saitama Sensei[One Punch man!] in my spare time.
