@@ -3,7 +3,7 @@ categories = ["sicp", "Emacs"]
 date = "2017-06-17T22:28:57+03:00"
 description = "Reading SICP in emacs"
 tags = ["sicp", "Emacs"]
-title = "Reading SICP in Emacs"
+title = "How to read SICP in Emacs"
 
 +++
 
