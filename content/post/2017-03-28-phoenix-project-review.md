@@ -7,7 +7,7 @@ tags = [
 date = "2017-03-28"
 description = "A review of the book: The Phoenix Project"
 title = "The Phoenix Project- Review"
-categories = ["y"]
+categories = ["reviews"]
 
 +++
 
