@@ -3,7 +3,7 @@ categories = ["reviews"]
 date = "2017-06-24T19:34:38+03:00"
 description = "A book review of the book, The Cuckoo's Egg: Tracking a spy through the maze of computer espionage"
 tags = ["reviews", ]
-title = "Book Review: \"The Cuckoo's Egg: Tracking a spy through the maze of computer espionagel\" by Clifford Stoll"
+title = "Book Review: \"The Cuckoo's Egg: Tracking a spy through the maze of computer espionage\" by Clifford Stoll"
 
 +++
 
