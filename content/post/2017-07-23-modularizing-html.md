@@ -6,7 +6,7 @@ tags = ["howto", "productivity", "programming"]
 title = "Modularising & Automating your workflow using Gulp and Nunjucks"
 +++
 
-This weekend, I thought it would be cool to discuss my current web dev workflow here. I realised that writing websites is a pain to some. In this article, I talk about some *gulp recipés* and `nunjucks`- a really cool javascript templating engine. I hope this turns out to be useful to someone out there.
+This weekend, I thought it would be cool to discuss my current web dev workflow here. I realised that writing websites is a pain to some. Some of the stuff I discuss here have been around for quite a while yet alot of people don't use 'em. In this article, I talk about some *gulp recipés* and `nunjucks`- a really cool javascript templating engine. I hope this turns out to be useful to someone out there.
 
 First things first, what is `Gulp` and what is a templating engine? The Gulp [website](http://gulpjs.com/URL ) best summarizes what `Gulp` is-- a toolkit for automating painful or time-consuming tasks in your dev work, so you can stop messing around and build something. Template engines are toolkits that enable you to modularise your HTML code(you can break your HTML into chunks and reuse it in other HTML files) in addition to providing you with some really cool ways to interact with data, like looping and passing data.
 
