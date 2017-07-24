@@ -40,8 +40,10 @@ npm install gulp{,-sass,-cssmin,-newer,-nunjucks-render} browser-sync --save-dev
 ```
 
 We start off by creating a basic layout file that will be used in all our html files:
+app/templates/layout.njk:
 
 ```
+<!--app/templates/layout.njk -->
 <!doctype html>
 <html lang="en">
     <head>
@@ -74,7 +76,7 @@ app/pages/index.njk:
 
 app/pages/about.njk:
 ```
-<!-- about.njk -->
+<!-- app/pages/about.njk/about.njk -->
 {% extends "layout.njk" %}
 
 {% block title %}
@@ -87,7 +89,7 @@ About
 
 app/pages/contact.njk:
 ```
-<!-- contact.njk -->
+<!-- app/pages/contact.njk -->
 {% extends "layout.njk" %}
 
 {% block title %}
@@ -101,6 +103,7 @@ app/pages/contact.njk:
 Let's also create some very basic navigation that'll look something like this:
 app/templates/partials/navigation.njk:
 ```
+<!-- app/templates/partials/navigation.njk -->
 <navigation>
     <ul>
         <li><a href="index.html">Home</a></li>
@@ -110,13 +113,15 @@ app/templates/partials/navigation.njk:
 </navigation>
 ```
 Let's add some fancy basic style using scss. Go to our scss file and add the following:
-
+app/scss/styles.scss:
 ```
+<!-- app/scss/styles.scss -->
 .m-text {
     border: solid 2px green;
 }
 ```
 Now let's write our gulp recipé that looks something like this:
+./gulpfile.js
 ```
 var gulp           = require('gulp');
 var browserSync    = require('browser-sync').create();
