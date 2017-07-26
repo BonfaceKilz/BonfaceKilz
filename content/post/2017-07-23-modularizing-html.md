@@ -1,7 +1,7 @@
 +++
 categories = ["y"]
 date = "2017-07-23T19:31:38+03:00"
-description = "Using Gulp to automate tasks and using Nunjucks as a template engine. This articles the basics of doing so"
+description = "Using Gulp to automate tasks and using Nunjucks as a template engine. This articles explains the basics of doing so"
 tags = ["howto", "productivity", "programming"]
 title = "Modularising & Automating your workflow using Gulp and Nunjucks"
 +++
