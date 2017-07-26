@@ -1,7 +1,7 @@
 +++
 categories = ["y"]
 date = "2017-07-26T22:45:56+03:00"
-description = "Some random note to self regarding integrating taskwarrior with dilettante"
+description = "Some random note to self regarding integrating taskwarrior with Radicale"
 tags = ["learning", "software"]
 title = "Note to Self: Integrating Radicale with Taskwarrior and ledger CLI"
 
