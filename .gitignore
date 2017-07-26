@@ -6,4 +6,5 @@ bonz.yml
 ./#*
 content/post/\#*\#
 content/post/.\#*
-themes/
+/themes
+/static
