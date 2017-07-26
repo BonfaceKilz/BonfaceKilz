@@ -1,6 +1,6 @@
 +++
 categories = ["philosophy"]
-date = "2017-06-21T23:46:20+03:00"
+date = "2017-07-21T23:46:20+03:00"
 description = "Some random quotes while reading Eric Hoffman's True Believer"
 tags = ["life", "philosophy"]
 title = "Random quotes from Eric Hoffman's True Believer"
