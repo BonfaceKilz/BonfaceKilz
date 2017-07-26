@@ -9,7 +9,7 @@ title = "Random quotes from Eric Hoffman's True Believer"
 
 I've been reading the book: **True Believer** for a while now. Here are some (random) quotes I've found interesting thus far in the book :)
 
-> *The despair brought by unemployment comes not only from the threat of destitution, but from the sudden view of a vast nothingness ahead. The unemloyed are more likely to follow the peddlers of hope than the handers out of relief.*
+> *The despair brought by unemployment comes not only from the threat of destitution, but from the sudden view of a vast nothingness ahead. The unemployed are more likely to follow the peddlers of hope than the handlers out of relief.*
 
 ***
 
@@ -19,7 +19,7 @@ I've been reading the book: **True Believer** for a while now. Here are some (ra
 > This minding of other people's business expresses itself in gossip,
 > snooping and meddling. and also feverish interest in communal,
 > national and racial affairs. In running away from ourselves we either
-> fall on our neighbour's shoulder or fly at his thought.*
+> fall on our neighbor's shoulder or fly at his thought.*
 
 ***
 
@@ -29,14 +29,14 @@ I've been reading the book: **True Believer** for a while now. Here are some (ra
 > away our holy duties and you leave our lives puny and meaningless.
 > There is no doubt that in exchanging a self-centered for a selfless
 > life we gain enormously in self-esteem. The vanity of the selfless,
-> even those who practise utmost humility, is boundless.*
+> even those who practice utmost humility, is boundless.*
 
 ***
 
 > *The inert mass of a nation is in its middle section. The decent,
 > average people who do the nation's work in cities and on the land
 > are worked upon and shaped by minorities at both ends- the best
-> andthe worst.*
+> and the worst.*
 
 ***
 
@@ -70,7 +70,7 @@ I've been reading the book: **True Believer** for a while now. Here are some (ra
 
 > *Freedom aggravates at least as much as it alleviates frustration.
 > Freedom of choice places the whole blame of failure on the shoulders
-> of the individual. And as freedom encourages a multiciplity of
+> of the individual. And as freedom encourages a multiplicity of
 > attempts, it unavoidably multiplies failure and frustration. Freedom
 > alleviates frustration by making available the palliatives of action,
 > movement, change and protest.*
@@ -93,7 +93,7 @@ I've been reading the book: **True Believer** for a while now. Here are some (ra
 
 ***
 
-> *They who clamor loudest for freedom pare often the ones least likely
+> *They who clamor loudest for freedom are often the ones least likely
 > to be happy in a free society. The frustrated, oppressed by their
 > shortcomings, blame their failure on existing restraints.*
 
@@ -131,7 +131,7 @@ I've been reading the book: **True Believer** for a while now. Here are some (ra
 
 > *Failure in the management of public management of practical affairs seems to
 > be a qualification for success in the management of public affairs. And it is
-> perhaps fortunate that some proud natures when sufferign defeat in the
+> perhaps fortunate that some proud natures when suffering defeat in the
 > practical world do not feel crushed but are suddenly fired with the
 > apparently absurd conviction that they are eminently competent to direct the
 > fortunes of the community and the nation.*
