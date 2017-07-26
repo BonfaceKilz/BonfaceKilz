@@ -1,3 +1,5 @@
+/themes
+/static
 /public
 config.toml
 bonz.retry
@@ -6,5 +8,3 @@ bonz.yml
 ./#*
 content/post/\#*\#
 content/post/.\#*
-/themes
-/static
