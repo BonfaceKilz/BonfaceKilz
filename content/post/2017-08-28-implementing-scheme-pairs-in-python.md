@@ -48,9 +48,9 @@ def cdr(z):
     return z("cdr")
 ```
 
-Both `car` and `cdr` take a pair(a cons object) as it's arguments. The right value is returned depending on the "message passed". The name "message passing" comes from the image that a data object(in our case the pairs) is an entity that receives teh requested operation name as a "message". Let's create some fancy pairs :)
+Both `car` and `cdr` take a pair(a cons object) as it's arguments. The right value is returned depending on the "message passed". The name "message passing" comes from the image that a data object(in our case the pairs) is an entity that receives the requested operation name as a "message". Let's create some fancy pairs :)
 ```
-x = pair(2, 3)
+x = cons(2, 3)
 
 # Let's print the first element of x:
 print(car(x))
@@ -58,3 +58,5 @@ print(car(x))
 # Let's print the second element of x:
 print(cdr(x))
 ```
+
+**update 1:** I had swapped cons with pairs in the above functions. Well, I've fixed that now :)
