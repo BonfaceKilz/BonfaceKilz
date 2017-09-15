@@ -6,7 +6,7 @@ tags = ["philosophy", "productivity", "society", "work"]
 title = "Developing a strong work ethic"
 
 +++
-Last Saturday, I successfully hosted a book club(Urban Perspective) meet-up at some popular coffee place somewhere in the Nairobi city center(Cafe Deli). What I got from the experience was something quite insightful. We explored some of the great thinkers and doers of our society and wondered what contributed to their perceived success. *What can we learn from them?* This question led us to talk about *work culture* and its influence in our society.
+Last Saturday, I successfully hosted a book club(Urban Perspective) meet-up at some popular coffee place somewhere in the Nairobi city center(Café Deli). What I got from the experience was something quite insightful. We explored some of the great thinkers and doers of our society and wondered what contributed to their perceived success. *What can we learn from them?* This question led us to talk about *work culture* and its influence in our society.
 
 It came to no surprise that some of us waste alot of out time doing trivial things that eat up our day. If only we used more of our time doing more productive things, then perhaps we'd make some decent progress in stuff we like. Perhaps our constant distraction from things we need to do can be attributed to the *consumerism culture* we have strongly cultivated.
 
