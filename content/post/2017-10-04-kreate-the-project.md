@@ -1,7 +1,7 @@
 +++
 categories = ["philosophy", "work"]
 date = "2017-10-04T20:03:00+03:00"
-description = ""
+description = "A short article describing an initiative- #Kreate- that I'm part of"
 tags = ["philosophy", "work"]
 title = "#Kreate Initiative"
 
