@@ -9,6 +9,7 @@ categories = [
     "software",
     "religion",
 ]
+date= "2018-04-30"
 +++
 
 I found this prayer [here](http://reverentgeek.com/developers-serenity-prayer/ "serenity prayer").
