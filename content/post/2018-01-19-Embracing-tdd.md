@@ -1,10 +1,17 @@
 +++
 title= "Embracing TDD- A sermon"
 description= "A short sermon on TDD from a concerned Emacs Evangelist"
-tags= ["agile", "software", "fundamentals"]
-categories= ["software", "fundamentals"]
+tags= [
+    "agile",
+    "software",
+    "fundamentals",
+]
+categories= [
+    "software",
+    "fundamentals",
+]
 date= "2018-01-19T15:50:36+03:00"
-draft= false
+
 +++
 
 It's been a long while since I blogged. I've been busy with tonnes of stuff. For one, I commenced work some time last month as a systems developer for Clinton Health Access Initiative(CHAI). I've been juggling work, and other side projects, with my final year of engineering school, and this has been one tough nut to crack. This is however not a post about time management or schedules, it's one about testing your projects.

@@ -2,8 +2,8 @@
 title = "Sane way of handling dependencies"
 description = "A sane way of maintaining javascript repositories"
 tags = [
-"programming",
-"javascript",
+    "programming",
+    "javascript",
 ]
 categories = ["coding"]
 slug="managing-dependencies"

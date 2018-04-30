@@ -7,7 +7,7 @@ tags = [
     "typesetting",
 ]
 categories = [
-    "coding",
+    "coding"
     ]
 slug = "introduction-to-latex"
 +++
