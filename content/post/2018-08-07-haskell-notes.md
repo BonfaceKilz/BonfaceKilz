@@ -6,9 +6,9 @@ categories = ["programming", "functional programming"]
 date = "2018-08-07"
 +++
 
-In this past few months, I've delved deep into Functional Programming(FP). FP is a functional paradigm whereby functions are the basic building blocks of various abstractions. In FP, we build more abstractions by composing small functions together. One great motivation for this is my desire build robust, terse and correct programs that are easy to test. At work, I've been tasked with maintaining and adding new features to a system that runs on unsupported [php] framework; which barely has any code coverage. My frustrations working in such an environment have greatly inspired me to look for ways to hone my deving craft- hence FP.
+In this past few months, I've delved deep into Functional Programming(FP). FP is a functional paradigm whereby functions are the basic building blocks of various abstractions. In FP, we build more abstractions by composing small functions together. One great motivation for this is my desire build robust, terse and correct programs that are easy to test. At work, I've been tasked with maintaining and adding new features to a system that runs on unsupported [php] framework; which barely has any (code) test coverage. My frustrations working in such an environment have greatly inspired me to look for ways to hone my deving craft- hence FP.
 
-As an example of terseness, I'll write a small program that sums the first *n* fibonacci numbers. A fibonacci number consists of the sum of the previous number before it i.e *fib(n) = fib(n-1) + fib(n-2)*. The initial conditions would be that: *fib(0) = 1* and *fib(1) = 1*. From this definition, it can be seen that the solution is recursive. In Python, a naive implementation of this would be using tree recursion as follows:
+As an example of terseness, I'll write a small program that sums the first *n* fibonacci numbers. A fibonacci number consists of the sum of the two previous number before it i.e *fib(n) = fib(n-1) + fib(n-2)*. The initial conditions are: *fib(0) = 1* and *fib(1) = 1*. From this definition, it can be seen that the solution is recursive. In Python, a naive implementation of this would be coded using tree recursion as follows:
 
 ```
 def fib(n):
@@ -47,7 +47,7 @@ def fibSumIter(n):
 	return result
 ```
 
-In Haskell we could solve the recursion problem by first generating an infinite list of fibonacci numbers. We do not have to worry about this because, we have lazy evaluation which is built into the language itself. This means we only evaluate something, in the case of infinite lists, when it is required. We generate this list using Haskell's list comprehension as follows:
+In Haskell we could solve the recursion problem by first generating an infinite list of fibonacci numbers. We do not have to worry about this because, we have lazy evaluation which is built into the language itself. This means we only evaluate something, in our case, infinite lists, only when it is required. We generate this list using Haskell's list comprehension as follows:
 
 ```
 fibs = [0, 1] ++ [fibs !! (i-1) + fibs !! (i-2) | i <- [2..]]
