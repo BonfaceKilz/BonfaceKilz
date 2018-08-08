@@ -3,7 +3,8 @@ title = "First Round Pick Interviewing at Safi Analytics"
 description = "An exhausted me talks about Hackerrank interiviews, goals, books, and more books"
 tags = ["interviews", "jobs", "software"]
 categories = ["jobs", "career"]
-date = "2018-08-09"
+date = "2018-08-08"
+
 +++
 
 I'm writing this on 2018-08-09 at 00:26 hours. Well, needless to say, I'm beat. I've been swamped with emergency tasks the whole day. That aside,yesterday in the evening, I decided to sit down and do some interviews with this new start up called Safi Analytics. I'm guessing this is the first round pick. This post is a my brief experience regarding this process, my opinions, and somethings I'm upto.
@@ -15,29 +16,29 @@ I've spent the past 6 months doing maintenance work(basically damage control) on
 I'll start doing more of these coding challenges. I'll kinda however prioritize Project Euler over the rest(Hackerrank and Kattis). My goal for now is to be able to express myself fluently in whatever problem domain I find myself in. 
 
 My goals for now? Well:
-+ Be really good in solving problems using the the Functional Paradigm(preferrably Haskell) and apply it in almost everything I do
-+ Work remotely/ of full time(as long as it's not based in SF) for a company that uses FP in their operations and dev work
-+ Get deep into some codecs
-+ Kernel ninja/ systems(as in Linux) hacker
-+ More kernel/ linux hacking
-+ Be a decent SRE(or understand principles underlying it)
-+ Deep understanding of some wireless telecomm systems
+- Be really good in solving problems using the the Functional Paradigm(preferrably Haskell) and apply it in almost everything I do
+- Work remotely/ of full time(as long as it's not based in SF) for a company that uses FP in their operations and dev work
+- Get deep into some codecs
+- Kernel ninja/ systems(as in Linux) hacker
+- More kernel/ linux hacking
+- Be a decent SRE(or understand principles underlying it)
+- Deep understanding of some wireless telecomm systems
 
 Here are books I'm reading:
-+ Learn you a Haskell(Halfway done)
+- Learn you a Haskell(Halfway done)
 
 Here are books a devOps guy shared(what he plans on reading):
-+ Designing Data Intensive Applications
-+ The Site Reliability Workbook
-+ Thinkos
+- Designing Data Intensive Applications
+- The Site Reliability Workbook
+- Thinkos
 
 Here are books I plan on reading:
-+ Reall world haskell
-+ Cloud Native Computing Computing With Go
+- Reall world haskell
+- Cloud Native Computing Computing With Go
 
 What I'm doing:
-+ Remote Work at CHAI
-+ Porting some ANPR system to Haskell
-+ Preparing a white paper on the above
+- Remote Work at CHAI
+- Porting some ANPR system to Haskell
+- Preparing a white paper on the above
 
 I guess, I'll go to sleep now. Hope for a better day tomorrow :)
