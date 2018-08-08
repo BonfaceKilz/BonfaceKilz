@@ -3,7 +3,7 @@ title = "First Round Pick Interviewing at Safi Analytics"
 description = "An exhausted me talks about Hackerrank interiviews, goals, books, and more books"
 tags = ["interviews", "jobs", "software"]
 categories = ["jobs", "career"]
-date = "2018-08-10"
+date = "2018-08-09"
 +++
 
 I'm writing this on 2018-08-09 at 00:26 hours. Well, needless to say, I'm beat. I've been swamped with emergency tasks the whole day. That aside,yesterday in the evening, I decided to sit down and do some interviews with this new start up called Safi Analytics. I'm guessing this is the first round pick. This post is a my brief experience regarding this process, my opinions, and somethings I'm upto.
