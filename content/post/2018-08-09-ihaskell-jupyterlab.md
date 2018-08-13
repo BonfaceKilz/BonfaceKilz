@@ -44,7 +44,7 @@ Finally we install the jupyterlab ihaskell to get syntax highlighting[2] extensi
 jupyter labextension install ihaskell_labextension
 ```
 
-References:
-[0] https://docs.haskellstack.org/en/stable/README/
-[1] https://hackage.haskell.org/package/gtk2hs-buildtools
+References:  
+[0] https://docs.haskellstack.org/en/stable/README/  
+[1] https://hackage.haskell.org/package/gtk2hs-buildtools  
 [2] https://github.com/gibiansky/IHaskell
