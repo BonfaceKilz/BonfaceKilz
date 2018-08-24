@@ -6,7 +6,7 @@ categories = ["linux"]
 date = "2018-08-24"
 +++
 
-_This is a brief hack for quick navigation using the [https://i3wm.org/](i3 window manager)._
+_This is a brief hack for quick navigation using the [i3 window manager](https://i3wm.org/)._
 
 If you find yourself commonly using specific applications, you can bind `focus` to that application. Here's an example of binding firefox, emacs, and a terminal:
 
