@@ -27,7 +27,7 @@ hugo
 
 ## For Emacsen :heart: users
 
-For my current blog flow(started 2019), I don't directly edit the mark down files. Instead I have all my blog articles in an org file as trees. I use [ox-hugo](https://ox-hugo.scripter.co/) to export the tree entries individual mark down entries. Here's my setup
+For my current blog flow(started 2019), I don't directly edit the mark down files. Instead I have all my blog articles in an org file as trees. I use [ox-hugo](https://ox-hugo.scripter.co/) to export the tree entries individual mark down entries. I then use [easy-hugo](https://github.com/masasam/emacs-easy-hugo) to run the hugo preview command.  Here's my setup
 
 ```
 (setq easy-hugo-basedir "~/Public/BonfaceKilz/")
