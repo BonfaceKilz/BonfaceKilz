@@ -4,7 +4,7 @@ description = """
   I decided to switch to using the Programmer's Dvorak keyboard. Here's my
   experience so far.
   """
-date = 2018-12-16T00:11:00+03:00
+date = 2018-12-16T09:25:00+03:00
 tags = ["technology"]
 categories = ["technology"]
 draft = false
