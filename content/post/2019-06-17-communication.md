@@ -1,0 +1,23 @@
++++
+title = "Communication- Stuff I've learnt from work"
+description = "Being effective at communicating with other people is an important aspect of deving. In this article, I try to articulate why this is so."
+date = 2019-06-17T21:01:00+03:00
+tags = ["life-tips", "philosophy", "project-management", "productivity"]
+draft = false
++++
+
+> **Miscommunication is the number one cause of all problems; communication is your bridge to other people. Without it, there's nothing. So when it's damaged, you have to solve all these problems it creates.**
+>
+> -- Earl Sweatshirt
+
+In my line of work, software development/ engineering, or whatever name you decide to call it, people tend to think that being technical gets most of the work done- being able to magically whoop out a clever solution in a tense environment, occasionally with the luxury of little pressure from external factors. Using this misnomer as a basis for some misplaced beliefs of what software developers are, the general public perceives us, software developers, as people who are smart, maybe arrogant, and isolated. Nothing could be far from the truth than this. Turns out software engineering is, in a big part, a social activity, at least when done right- especially when working as part of a team.
+
+People who've spent a lot of time writing code understand that for code to be maintainable, it has to be readable, because someone else, or at the very least, your future self will have to maintain whatever it is you've written. Being able to write something that someone else can easily understand is a form of communication. Writing docs for it is also another form of communication.
+
+A big difference I've observed between experienced devs and less experienced ones is the willingness to admit a lack of knowledge in a particular area. Why is this important? Well, for starters, once your team knows what you do not know, they can help you get your ropes right. They can help you get up to par much and fill in the gaps quicker. Also, in the event of hard deadlines, your teammates can plan around your incompetency(or lack of knowledge). From a business point of view, telling them- the business- what you can't do may force them to consider alternatives, or force them to give you some time to do whatever research you have to do to get whatever job they gave you done. The general gist of things here is that telling people what you can or cannot do gives people around you the opportunity to plan things out in a more objective and concise way.
+
+In case of major f\*\*\*-ups, you should be able to tell the business what went wrong, when it happened and possibly why and what you are doing about it. The sooner this is done, the less damage the business incurs. Effective developers communicate really early on during a blunder. They describe in detail the context of said  blunder and **take responsibility** for any dumb mistakes done. This way, the business can do it's best to mitigate any effects of the mess and possibly do a sane post-mortem of the circumstances that led to the blunder. Also, as a developer, it's way easier to handle the consequences of a major blunder the sooner you address it and tell people. A side effect of being willing to take responsibility of your actions, regardless of their stupidity, makes you a cautious developer, and I've come to appreciate that this can be a useful trait to have.
+
+Another aspect of communication that's usually overlooked by a lot of people is the ability to tell your team mates where you are with regards to a particular task. At work, I've developed this habit of telling people, on some slack channel, what I intend to work on a particular day, every single day. This is something I found as part of the work culture at m'work place and I took to it like a duck to water. A huge benefit I've observed with this way of doing things is that it encourages transparency when doing things. Also, whenever you are working on something that is not really a priority, a team mate may gently call you out on it.
+
+Being able to effectively communicate with other people at certain levels takes a certain level of humility and willingness to accept other people's feedback- however negative they may be. Cultivating this as a habit is something I believe you should do as part of your work ethic because it helps in making things more actionable(because people can work more effectively with you). You need to make it easier for other people to communicate with you. You also need to be more clear in how you communicate your thoughts/ ideas or whatever it is you want to tell people. There's more to writing software than just writing good software...
