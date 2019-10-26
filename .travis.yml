@@ -1,40 +1,37 @@
 dist: xenial
 sudo: required
 
-addons:
-  ssh_known_hosts: ${DEPLOY_HOST}
-
 language: node_js
 node_js:
   - lts/*
 
+before_install:
+  - openssl aes-256-cbc -K $encrypted_df51a33bf88d_key -iv $encrypted_df51a33bf88d_iv -in secrets.enc.tar.enc -out secrets.enc.tar -d
+  - tar xvf secrets.enc.tar
+
 install:
-  - wget "https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_extended_${HUGO_RELEASE}_Linux-64bit.deb"
+  - wget "https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_${HUGO_RELEASE}_Linux-64bit.deb"
   - sudo dpkg -i hugo*.deb
-  - npm install
 
 script:
   - hugo version
   - hugo
 
 before_deploy:
-  - openssl aes-256-cbc -K $encrypted_df51a33bf88d_key -iv $encrypted_df51a33bf88d_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
+  - mv ${TRAVIS_BUILD_DIR}/deploy_rsa /tmp/deploy_rsa
   - eval "$(ssh-agent -s)"
+  - echo -e "Host ${DEPLOY_HOST}\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   - chmod 600 /tmp/deploy_rsa
   - ssh-add /tmp/deploy_rsa
-  - echo -e "Host ${DEPLOY_HOST}\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 
 deploy:
   provider: script
   skip-cleanup: true
-  script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
+  script: ls ${TRAVIS_BUILD_DIR}/public/ && pwd && rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
   on:
     branch: master
 
 env:
   global:
     - PRODUCTION=true
-    - HUGO_RELEASE=0.54.0
-    - secure: IuRK5sMgd2D7ik09Ska1mWnHYjORBU9LNnj3HH05E4W/zZGStW/Dj4sZJ7AJazS+W98PFsm0cqUM7InAzK/vSoZYha+HqPrPyIaV1uW24JLeLlMvxA/26oCCSm3PnBeiS93Wp2XGl4xYAaJ7mAlcdWSEPt5/l1pQWHVUNXWIAY+Nuvzg4ZeKiQzP7VWCFCRQ7XKhHIdla0Em7akqzEBDEFhMOJN/V3ilGGEWW4zZaVD4IV3lL6e1igeP7Et0Fwfh7ma6Q3DM+vO8SXpeCpkFeGBuijBVsEf7zOLaqpOuT9lS3JFH7AMloULVsVqeu45j58h6Db/JUYLIxs9hMsJWHvcoCWNfN4eg4uy1ZcDqu41iiWLDcAV8sUYYJBcNB/VrI6af+GtII5FE/ezjixVdiU69aum5HOmLCjDudH+MQTtd9Jz7qf674ZMI9ujDpEMz1E6Pzg3P/cHzv4O+AbTMTU0sQ+wfuqx36eDQ44y/NFUl8/deKdOMh5mDSHntpPcE3N+KR0hnweZ6VJBZaHywWaTuEw8GjpKX0MAHX6TPog4/mBnO+MM/LejphFhXMHMnJvlr5O406XLaWgfio3FsxUiiwzJuP7rUAdItFQ8nUplA/EynMAU1S8MvB4jWUhfws4KLD1cOmg1N/lCwHif+1EISg0zg30pJURSBjIGviJY=
-    - secure: La5ngRx2sVr6Un8TE7Jg1a0YrXMThZ2r7ejBvzsZIklJtTwkzZxLxASFz9E+9a8o8oQGt5p8fbsqIYmVsMcFv2gizK4fN5X/iplgmFgcxVKbfoEcq9/UwXCZDvwT0R1diVKzjzEa4yNEKZf7GVE2m2QnQ8RabG5YpFjz8iahiqWATc+RSy3QTe4fhynHD/NK9Pl9p1R6dOxiXzDDkkulST6z3tu8YKscIJRQwxf0bfr0qN9bRRqTS9RF76kAhBltA/C8jvPVlx2S5sXc9aXfBZCI3sqdQ9KtYwlm7oqJdCAWXvhDRlYHDugNahxcZI/6PSXUvzRMtWGLWwwttI30gA8xi5VJsqqDvkGk3sxmuxN1Ge1bVci7RNTLr0QF2KvoCS8Zm2vGiz7Ksxu+DO/qw2LkmjRBYOlI26AcffY5JHJCZTkcEpOfbyGFzWicVOIs98bFzQo/0FNpIoL0CrdUVPDkEAKP7R84PhUNOQ2kmYy0yc40Vx4AipUP/hIlm5vK3SXvE6XD6fRf9B1q6VR6Qvflc6E/Ur7Q/P+rLRZYjRAUVyIPZCIGTXt/np7wAGNrX4vxQMM152O/BDxuM/QztkDfqmRZYgAvaDgYDNFUkQeT8kiYA3IeCeGnvbjwhjlMvrBUjaNwa21VxAQUzV5yvJq8WtPC9sze0t3xhe5jm3c=
-    - secure: maAPYLnqvwtUsFxUkqvuW4l0WZCvJ9EJbdPP7KiECBOb1oM/6beNlO815vDDQ+HLup53LSVPkr6Ep6MlVBLLup0Jl5ZtUEK+JMNCQt6vhk39VZysir706oDroUuGllQviY0d8GjSjPYzHKpOEfgxrbdd1LSYW+ABGRIp0GiOphD1fvB/JX4UTe72/aLpLxiiOZfgUUMilMJiICqqK+cg5AFPf5x0SgZhHNeJYgNaCehFh7YQHGcJfn4JdOLvHKDIp269mwIVuv+0uUfPLGpFQwpL9rqpPU0nI/2cU2x+iB7mWAbTWBRdbOg0Oea+BfvW3g5CCIqMhoWqwyzfSU1zN3N1GTlGTuO7wdbt+nsDXvUOwPLMoFMOBvaLoMwD8+DPvpsiz9EzIgbSBPtwBHoQ11LumBXIPXtcllsLdSL/ELty4KkMWcLmgPDBgaTNPYtqzcF3qtoNruaY82iGLV8yYBe3X1T2tc4pPLCPiEecnUV0+E+w72XGAuzFVIDKTjg0ij4FEHcNtutKU9rsQih2TVSqchB0CzFm6fX3k+SyF9qFPPTIjS0ZzhG4ygspx7nYUDVONkkUgDNH8OHK+qto3NuSYszaYs1gPjmF+RmNm+2ZSXQuXN3px/epK4k50khwUFfNr4Hvz3rMrzs0zcivsZ4TAEbWmHznvRlq4ydn4qI=
+    - HUGO_RELEASE=0.40.1
