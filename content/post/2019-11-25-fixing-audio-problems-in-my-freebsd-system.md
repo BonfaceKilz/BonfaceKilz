@@ -2,7 +2,7 @@
 title = "Fixing Audio Problems in my freeBSD system"
 description = "How I fixed audio problems in FireFox in my FreeBSD system"
 date = 2019-11-25T16:55:00+03:00
-tags = ["freebsd"]
+tags = ["freebsd", "howto"]
 draft = false
 +++
 
