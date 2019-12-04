@@ -49,3 +49,18 @@ Options        :
 The downloaded binary you get by using a `pkg install` defaults to using the tty version of pinentry so this means that any time gpg is run, it expects pinentry(the program used to input the password) to be run from the terminal. This is why adding \`GPG\_TTY=$(tty)\` above fixed the gpg error in the terminal. However, when you run emacs from a GUI, it has no access to the terminal hence the weird bug.
 
 To make pinentry work in GNU/ Emacs, I had to remove the installed pinentry binary and compile it(from the ports collection) to use gtk. This way, when signing commits in git, I'll get a floating dialog box from which I'll input my password. This is not my ideal way of doing things, since I know that I can put the darn password within GNU/ Emacs. However, for now it suits my needs just fine :)
+
+[Update - 2019-12-04]
+
+Alternatively, to force pinentry to use gtk, you could stick this in
+`~/.gnupg/gpg-agent.conf`:
+
+```conf
+# Keyboard control
+no-grab
+
+# PIN entry program
+pinentry-program /usr/local/bin/pinentry-gtk-2
+```
+
+Be sure to restart the `gpg-agent` by running `gpgconf --kill gpg-agent`:
