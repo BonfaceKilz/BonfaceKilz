@@ -2,6 +2,7 @@
 title = "Getting back to the Algo Space"
 description = "A need to being upto speed with algos"
 date = 2019-12-04T22:59:00+03:00
+tags = ["interviews", "random"]
 draft = false
 +++
 
