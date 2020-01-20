@@ -16,12 +16,12 @@ not jails.
 Some people would ask, why not build Docker from source? Well, that's not
 possible for now because Docker uses some Linux Kernel features like namespaces
 and cgroups which are absent in FreeBSD. To make this work natively in FreeBSD,
-someone would have to work around this Linux kernel coupling. This has been
-attempted [before](https://www.freshports.org/sysutils/docker-freebsd/) but the project has been stale for some time now. The only
-practical solution left is running Docker inside a Linux VM inside FreeBSD. In
-this post, we'll be using `docker-machine` and `virtualbox` to do just that.
+someone would have to work around this. This has been attempted [before](https://www.freshports.org/sysutils/docker-freebsd/) but the
+project has been stale for some time now. The only practical solution left is
+running Docker inside a Linux VM inside FreeBSD. In this post, we'll be using
+`docker-machine` and `virtualbox` to do just that.
 
-First, we need to install a docker-client, docker-machine and virtualbox by:
+First, you need to install a docker-client, docker-machine and virtualbox by:
 
 ```bash
 sudo pkg install docker docker-machine virtualbox-ose
