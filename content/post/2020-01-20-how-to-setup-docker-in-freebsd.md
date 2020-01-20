@@ -8,23 +8,23 @@ draft = false
 
 Right now, you can't run docker natively on FreeBSD. I understand that there are arguably better alternatives to Docker in the FreeBSD universe like using jails, but it's hard to adjust to this if you're coming from Linux. Also, for many projects out here, Docker is the preferred containerisation method of use, so rest assured, alot of READMEs out here have instructions for a Docker set-up, not jails.
 
-Some people would ask, why not build Docker from the source. Well, that's not possible for now because Docker uses some Linux Kernel features like namespaces and cgroups which are absent in FreeBSD. To make this work natively in FreeBSD, someone would have to work around this Linux kernel coupling. This has been attempted [before](https://www.freshports.org/sysutils/docker-freebsd/) but the project has been stale for some time now. The only practical solution left is running Docker inside a Linux VM inside FreeBSD. In this post, we'll be using `docker-machine` and `virtualbox` to do just that.
+Some people would ask, why not build Docker from source? Well, that's not possible for now because Docker uses some Linux Kernel features like namespaces and cgroups which are absent in FreeBSD. To make this work natively in FreeBSD, someone would have to work around this Linux kernel coupling. This has been attempted [before](https://www.freshports.org/sysutils/docker-freebsd/) but the project has been stale for some time now. The only practical solution left is running Docker inside a Linux VM inside FreeBSD. In this post, we'll be using `docker-machine` and `virtualbox` to do just that.
 
-First, we need to install a docker-client, docker-machine and virtualbox. To install docker(this installs the docker-client), docker-machine and virtualbox:
+First, we need to install a docker-client, docker-machine and virtualbox by:
 
 ```bash
 sudo pkg install docker docker-machine virtualbox-ose
 ```
 
-After installing virtualbox, you need to load the `vboxdrv` kernel module by adding `vboxdrv_load="YES"` in `/boot/loader.conf`. You should also add your current users to your `vboxusers` group in order to use vbox:
+After installing virtualbox, you need to load the `vboxdrv` kernel module by adding `vboxdrv_load="YES"` in `/boot/loader.conf`. You should also add your current user to your `vboxusers` group in order to use vbox:
 
-```nil
+```bash
 sudo pw groupmod vboxuser -m <username>
 ```
 
 Once you are done, reboot your workstation in order to load the virtualbox kernel modules.
 
-Docker Machine lets you easily create Docker hosts on your computer. It creates servers, installs Docker on them, then configures the Docker client to talk to them[0]. I decided to use docker-machine for the docker set-up because it's painless to use and really convenient. To create a virtualbox host locally using Docker Machine:
+I decided to use docker-machine for setting up docker because it lets me easily create Docker hosts on my computer by creating servers, installing docker on them and configuring Docker client to talk to them [0] and it's painless to use:
 
 ```bash
 # Create the virtual box host
