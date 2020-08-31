@@ -1,9 +1,9 @@
 +++
 title = "The Zen of Tolerance"
 description = "Be tolerant when interacting with other people."
-date = 2020-09-01T00:00:00+03:00
+date = 2020-09-01T01:10:00+03:00
 tags = ["technology", "life"]
-draft = true
+draft = false
 +++
 
 _[First appeared [here](https://www.draketo.de/english/zen-of-tolerance)]_
