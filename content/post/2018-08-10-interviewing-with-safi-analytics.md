@@ -13,10 +13,9 @@ date = "2018-08-08"
 <ul>
 <li>Fixed typos.</li>
 <li>Fixed some improper sentence structures.</li>
-<li>Edited out some misleading opinions.</li>
+<li>Edited out some incoherent/ vague opinions.</li>
 </ul>
 
-<p><b>Commit:</b> <i>e22c1af</i></p>
 <p>
 <b>Commentary:</b> <i>In hindsight, the interview was ok: not great, and not bad
 either. I'm glad I never landed this role. Had I landed a role, who
