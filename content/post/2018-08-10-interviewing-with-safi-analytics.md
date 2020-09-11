@@ -7,6 +7,22 @@ date = "2018-08-08"
 
 +++
 
+[[[
+
+Edited on 2020-11-10:
+- Fixed typos.
+- Fixed some improper sentence structures.
+- Edited out some misleading opinions.
+
+Commit: e22c1af
+
+Commentary: In hindsight, the interview was ok: not great, and not bad
+either. I'm glad I never landed this role. Had I landed a role, who
+knows what the aftermath would have been? What I do know now is that
+I'm happy where I am: I get paid to hack in Sheme(Guile) :)
+
+]]]
+
 I'm writing this on 2018-08-09 at 00:26 hours. Well, needless to say, I'm beat. I've been swamped with emergency tasks the whole day. That aside, yesterday in the evening, I decided to sit down and do some interviews with this new start up called Safi Analytics. I'm guessing this is the first round pick. This post recounts my brief experience regarding this process, my opinions, and some things I'm up to.
 
 Objectively speaking, the interview questions were fair(and simple) compared to the more arduous task of implementing BCH/ Convolution codes(I've been doing this in uni). This process has highlighted a flaw in how I think and work- which is a nice thing I guess. I need to get more comfortable with prepping for "interview" programming- you know, the kind where you solve a bunch of algos(usually within a given time frame).
