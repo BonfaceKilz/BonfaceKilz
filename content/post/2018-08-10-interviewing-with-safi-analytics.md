@@ -23,7 +23,7 @@ either. I'm glad I never landed this role. Had I landed a role, who
 knows what the aftermath would have been? What I do know now is that
 I'm happy where I am: I get paid to hack in Sheme(Guile) :)</i>
 </p>
-<hr>
+<hr style="border-top: 1px solid #8c8c8c;">
 </details>
 
 I'm writing this on 2018-08-09 at 00:26 hours. Well, needless to say, I'm beat. I've been swamped with emergency tasks the whole day. That aside, yesterday in the evening, I decided to sit down and do some interviews with this new start up called Safi Analytics. I'm guessing this is the first round pick. This post recounts my brief experience regarding this process, my opinions, and some things I'm up to.
