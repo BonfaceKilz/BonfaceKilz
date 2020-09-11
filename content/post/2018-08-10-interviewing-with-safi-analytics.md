@@ -35,29 +35,34 @@ I wasted my first 15 minutes on trivia and panicked. It was unsettling for me wh
 I'll start doing more of these coding challenges. I'll however prioritize Project Euler over the rest(Hackerrank and Kattis). My goal for now is to be able to express myself fluently in whatever problem domain I find myself in. 
 
 My goals for now? Well:
-- Be really good in solving problems using the Functional Paradigm(preferrably Haskell) and apply it in almost everything I do
-- Work remotely/ full time(as long as it's not based in SF) for a company that uses FP in their operations and dev work
-- Get deep into some codecs
-- Kernel ninja/ systems(as in Linux) hacker
-- More kernel/ linux hacking
-- Be a decent SRE(or understand principles underlying it)
+
+- Be really good in solving problems using the Functional Paradigm(preferrably Haskell) and apply it in almost everything I do  
+- Work remotely/ full time(as long as it's not based in SF) for a company that uses FP in their operations and dev work  
+- Get deep into some codecs  
+- Kernel ninja/ systems(as in Linux) hacker  
+- More kernel/ linux hacking  
+- Be a decent SRE(or understand principles underlying it)  
 - Deep understanding of some wireless telecomm systems
 
 Here are books I'm reading:
+
 - Learn you a Haskell(Halfway done)
 
 Here are books a devOps guy shared(what he plans on reading):
-- Designing Data Intensive Applications
-- The Site Reliability Workbook
-- ThinkOs
+
+- Designing Data Intensive Applications  
+- The Site Reliability Workbook  
+- ThinkOs  
 
 Here are books I plan on reading:
-- Reall world haskell
-- Cloud Native Computing With Go
+
+- Reall world haskell  
+- Cloud Native Computing With Go  
 
 What I'm doing:
-- Remote Work at CHAI
-- Porting some ANPR system to Haskell
-- Preparing a white paper on the above
+
+- Remote Work at CHAI  
+- Porting some ANPR system to Haskell  
+- Preparing a white paper on the above  
 
 I guess, I'll go to sleep now. Hope for a better day tomorrow :)
