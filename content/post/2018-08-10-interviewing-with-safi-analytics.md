@@ -7,21 +7,23 @@ date = "2018-08-08"
 
 +++
 
-[[[
+<details>
+<summary><b>Edited on 2020-11-10:</b></summary>
 
-Edited on 2020-11-10:
-- Fixed typos.
-- Fixed some improper sentence structures.
-- Edited out some misleading opinions.
+<ul>
+<li>Fixed typos.</li>
+<li>Fixed some improper sentence structures.</li>
+<li>Edited out some misleading opinions.</li>
+</ul>
 
-Commit: e22c1af
-
-Commentary: In hindsight, the interview was ok: not great, and not bad
+<p><b>Commit:</b> <i>e22c1af</i></p>
+<p>
+<b>Commentary:</b> <i>In hindsight, the interview was ok: not great, and not bad
 either. I'm glad I never landed this role. Had I landed a role, who
 knows what the aftermath would have been? What I do know now is that
-I'm happy where I am: I get paid to hack in Sheme(Guile) :)
-
-]]]
+I'm happy where I am: I get paid to hack in Sheme(Guile) :)</i>
+</p>
+</details>
 
 I'm writing this on 2018-08-09 at 00:26 hours. Well, needless to say, I'm beat. I've been swamped with emergency tasks the whole day. That aside, yesterday in the evening, I decided to sit down and do some interviews with this new start up called Safi Analytics. I'm guessing this is the first round pick. This post recounts my brief experience regarding this process, my opinions, and some things I'm up to.
 
