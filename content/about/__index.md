@@ -10,3 +10,7 @@ ___tl;dr:___ I love making cool stuff, reading books, competitive swimming, watc
 
 ### About me
 Well, I consider myself a master[Sensei] in the Art of Anything(Yes, I mastered AA). I do anything I find cool. Such things have included electronics, random coding stints, the guitar, books[Yes, books are cool] and swimming[nothing like a 50 fly]. I preach Emacs[I use it for everything] and I'm a Linux enthusiast.
+
+### Reach out
+
+Holla at me[at]bonfacemunyoki.com \m/\m/
