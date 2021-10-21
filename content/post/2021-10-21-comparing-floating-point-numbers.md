@@ -51,5 +51,5 @@ which now correctly outputs
 True
 ```
 
-Also, a bit off-topic, but it's worth pointing out that you symbols
-like θ, β, ζ etc are valid names for variables.
+Also, a bit off-topic, but it's worth pointing out that symbols like
+θ, β, ζ etc are valid names for variables.
