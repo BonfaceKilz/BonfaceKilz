@@ -1,11 +1,9 @@
 +++
-date = "2017-04-17T11:42:07+03:00"
-categories = ["linux"]
-tags = [
-    "linux",
-    ]
 description = "The awesomness that is i3"
 title = "Using i3 window manager"
+date = "2017-04-17T11:42:07+03:00"
+categories = ["linux"]
+tags = ["linux"]
 
 +++
 
