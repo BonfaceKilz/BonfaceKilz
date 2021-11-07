@@ -1,8 +1,9 @@
 +++
-title = "The 5 Minute Journal daily routine            :life-tips:howto:"
+title = "The 5 Minute Journal daily routine"
 description = "My daily 5 minute journal routine"
 date = 2021-11-07T11:44:00+03:00
 publishDate = 2021-10-27T00:00:00+03:00
+tags = ["howto", "life"]
 draft = false
 +++
 
