@@ -37,3 +37,5 @@ For my current blog flow(started 2019), I don't directly edit the mark down file
 (setq easy-hugo-previewtime "300")
 (define-key global-map (kbd "C-c C-e") 'easy-hugo)
 ```
+
+<noscript><a href="https://liberapay.com/BonfaceKilz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>

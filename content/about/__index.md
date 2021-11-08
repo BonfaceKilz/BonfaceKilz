@@ -14,3 +14,7 @@ Well, I consider myself a master[Sensei] in the Art of Anything(Yes, I mastered 
 ### Reach out
 
 Holla at me[at]bonfacemunyoki.com \m/\m/
+
+
+<script src="https:/https://liberapay.com/BonfaceKilz/donate/liberapay.com/Moul/widgets/https://liberapay.com/Moul/donatebutton.js"></script>
+<noscript><a href="https://liberapay.com/BonfaceKilz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
