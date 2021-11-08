@@ -6,7 +6,7 @@ url = "/bio/"
 type = "about"
 +++
 
-<a href="https://liberapay.com/BonfaceKilz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+<a href="https://liberapay.com/BonfaceKilz/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" style="width:100px" target="_blank"></a>
 
 ___tl;dr:___ I love making cool stuff, reading books, competitive swimming, watching anime<strike>(The Sharingan is my favicon)</strike>, and playing the guitar. Oh, I love GNU/ Linux, GNU Emacs and free(as in GNU free) software. [Fully recovered] typography nerd. I'm also a wannabe Saitama Sensei[One Punch man!] in my spare time.
 
