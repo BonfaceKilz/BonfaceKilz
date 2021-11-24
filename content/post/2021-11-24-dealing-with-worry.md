@@ -26,12 +26,10 @@ for dealing with worry-some situations:
     an important step, since it makes something that seems abstract
     more concrete.
 3.  Analyse the aforementioned facts.  Some useful questions I use are:
-    -   Given these facts, what's the worst that could happen?
-
-    -   How do I feel about this?  Again, use the [feelings wheel](https://blog.calm.com/blog/the-feelings-wheel) to help
-        with this.
-
-4.  Finally, make a decision based off these facts.  **Act** on your decision.  Do something about it!
+    Given these facts, what's the worst that could happen? How do I
+    feel about this?  Again, use the [feelings wheel](https://blog.calm.com/blog/the-feelings-wheel) to help with this.
+4.  Finally, make a decision based off these facts.  **Act** on your
+    decision.  Do something about it!
 
 These steps have really helped me deal with anxiety-inducing
 situations in a much more productive way.  I write this, primarily for
