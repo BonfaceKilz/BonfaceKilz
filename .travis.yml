@@ -8,6 +8,7 @@ node_js:
 before_install:
   - openssl aes-256-cbc -K $encrypted_df51a33bf88d_key -iv $encrypted_df51a33bf88d_iv -in secrets.enc.tar.enc -out secrets.enc.tar -d
   - tar xvf secrets.enc.tar
+  - cp secrets.enc.tar /tmp
 
 install:
   - wget "https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_${HUGO_RELEASE}_Linux-64bit.deb"
@@ -27,7 +28,7 @@ before_deploy:
 deploy:
   provider: script
   skip-cleanup: true
-  script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY}
+  script: rsync -r --quiet --delete-after ${TRAVIS_BUILD_DIR}/public/* ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_DIRECTORY} && rsync -r /tmp/secrets.enc.tar ${DEPLOY_USER}@${DEPLOY_HOST}:/tmp
   on:
     branch: master
 
