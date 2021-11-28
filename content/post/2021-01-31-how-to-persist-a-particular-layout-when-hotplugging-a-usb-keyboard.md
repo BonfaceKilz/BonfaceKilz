@@ -1,5 +1,5 @@
 +++
-title = "How to persist a particular layout when hotplugging a USB keyboard"
+title = "How to Persist a Particular Layout When Hot-plugging a USB Keyboard"
 description = "How to persist a keyboard layout after USB hotplugging the keyboard"
 date = 2021-01-31T12:43:00+03:00
 tags = ["howto", "linux"]

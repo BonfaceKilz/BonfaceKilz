@@ -1,5 +1,5 @@
 +++
-title = "On beautiful people"
+title = "On Beautiful People"
 description = "On matters beauty"
 date = 2021-06-30T12:42:00+03:00
 tags = ["life"]

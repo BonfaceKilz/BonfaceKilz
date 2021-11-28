@@ -1,5 +1,5 @@
 +++
-title = "Communication- Stuff I've learnt from work"
+title = "Communication- Stuff I've Learnt From Work"
 description = "Being effective at communicating with other people is an important aspect of deving. In this article, I try to articulate why this is so."
 date = 2019-06-17T21:01:00+03:00
 tags = ["life-tips", "philosophy", "project-management", "productivity"]

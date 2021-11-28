@@ -1,5 +1,5 @@
 +++
-title = "Compiling Elm from source"
+title = "Compiling Elm From Source"
 description = "How to build elm from source"
 date = 2019-12-10T18:20:00+03:00
 tags = ["howto", "freebsd"]

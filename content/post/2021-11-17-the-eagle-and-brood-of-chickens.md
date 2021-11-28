@@ -1,5 +1,5 @@
 +++
-title = "The Eagle and brood of chickens"
+title = "The Eagle and Brood of Chickens"
 description = "A parable on the eagle and brood of chickens"
 date = 2021-11-17T13:20:00+03:00
 publishDate = 2021-10-30T00:00:00+03:00

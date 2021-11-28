@@ -1,5 +1,5 @@
 +++
-title = "Beware utility modules/ classes"
+title = "Beware Utility Modules/ Classes"
 description = """
   Utility modules(or classes) can be a potential sign of code smell. This
   article describes why.

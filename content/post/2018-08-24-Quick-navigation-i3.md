@@ -1,5 +1,5 @@
 +++
-title = "Quicking Navigation in i3 using Focus"
+title = "Quick Navigation in i3 Using Focus"
 description = "A productivity for quick navigation in i3"
 tags = ["software", "linux"]
 categories = ["linux"]

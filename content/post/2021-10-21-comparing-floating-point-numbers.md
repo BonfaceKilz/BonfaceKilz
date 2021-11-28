@@ -1,5 +1,5 @@
 +++
-title = "Comparing floating point numbers"
+title = "Comparing Floating Point Numbers"
 description = "How to compare floating point numbers"
 date = 2021-10-21T21:27:00+03:00
 publishDate = 2021-10-21T00:00:00+03:00

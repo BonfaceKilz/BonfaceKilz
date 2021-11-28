@@ -1,5 +1,5 @@
 +++
-title = "Using Computers in the digital age"
+title = "Using Computers in the Digital Age"
 description = """
   Earlier today I left my phone in an Uber. This little event made me question how
   integral computers have become in my life and how dependent we have become on them.

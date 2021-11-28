@@ -1,5 +1,5 @@
 +++
-title = "Summary of reading: August - November 2017"
+title = "Summary of Reading: August - November 2017"
 description = "A summary of all the books I have read during this time"
 tags = ["reviews"]
 categories = ["Book Reviews"]

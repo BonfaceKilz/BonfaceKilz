@@ -1,5 +1,5 @@
 +++
-title= "Embracing TDD- A sermon"
+title= "Embracing TDD- A Sermon"
 description= "A short sermon on TDD from a concerned Emacs Evangelist"
 tags= [
     "agile",

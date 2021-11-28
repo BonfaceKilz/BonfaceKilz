@@ -1,5 +1,5 @@
 +++
-title = "Dealing with confusing problems/ situations"
+title = "Dealing with Confusing Problems/ Situations"
 description = "Heuristics for dealing with problems"
 tags = ["life", "philosophy"]
 categories = ["live"]

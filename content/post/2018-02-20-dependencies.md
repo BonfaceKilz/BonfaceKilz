@@ -1,5 +1,5 @@
 +++
-title = "Sane way of handling dependencies"
+title = "Sane Way of Handling Dependencies"
 description = "A sane way of maintaining javascript repositories"
 tags = [
     "programming",

@@ -1,6 +1,6 @@
 +++
 title = "Using Haskell in JupyterLab"
-description = "using haskell in jupyterlab"
+description = "Using Haskell in Jupyterlab"
 tags = ["programming", "functional programming"]
 categories = ["software"]
 date= "2018-08-09"

@@ -1,5 +1,5 @@
 +++
-title = "Getting back"
+title = "Getting Back"
 description = "Some little rant about blogging"
 date = 2019-10-28T00:16:00+03:00
 tags = ["productivity", "life"]

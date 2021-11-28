@@ -1,5 +1,5 @@
 +++
-title = "Setting up docker on an ARMv7 processor that runs Fedora 22"
+title = "Setting up Docker on an ARMv7 Processor that Runs Fedora 22"
 description = "This is a short post on my docker set up on an ARM processor that runs Fedora 22"
 tags = ["howto", "linux", "software"]
 categories = ["howto", "linux", "software"]

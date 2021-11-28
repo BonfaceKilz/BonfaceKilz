@@ -1,5 +1,5 @@
 +++
-title = "Fixing gpg signing in magit"
+title = "Fixing GPG Signing in Magit"
 description = "Signing commits in magit"
 date = 2019-11-25T22:06:00+03:00
 publishDate = 2019-11-25T00:00:00+03:00

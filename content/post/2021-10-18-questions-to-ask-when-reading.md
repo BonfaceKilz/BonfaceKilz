@@ -1,5 +1,5 @@
 +++
-title = "Questions to Ask when reading/ consuming content you want to learn from"
+title = "Questions to Ask When Reading/ Consuming Content You Want to Learn From"
 description = "Some useful questions to think when you are reading"
 date = 2021-10-18T17:21:00+03:00
 publishDate = 2021-10-18T00:00:00+03:00

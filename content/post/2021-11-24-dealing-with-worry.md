@@ -1,5 +1,5 @@
 +++
-title = "Dealing with worry"
+title = "Dealing With Worry"
 description = "How I deal with worry-some situations"
 date = 2021-11-24T15:26:00+03:00
 publishDate = 2021-11-24T00:00:00+03:00
