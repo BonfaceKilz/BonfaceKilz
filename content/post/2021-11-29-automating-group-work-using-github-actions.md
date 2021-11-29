@@ -83,7 +83,7 @@ We are almost there!  Now we need to make a release, which looks like
 should releases be made?** Making a release on every single push is
 noisy, and really not helpful.  For this particular case, I opted to
 make a release based on git tagging.  The idea is that whenever we
-make a some significant progress worth reviewing, we create a tag; and
+make some significant progress worth reviewing, we create a tag; and
 whenever I push that tag to the main repository, a release is made.
 Tags would look like: `v0.0.1-intro-wip`, `v0.0.1-intro-final`, etc.
 Naming Conventions is something we can agree on as a group later.  The
