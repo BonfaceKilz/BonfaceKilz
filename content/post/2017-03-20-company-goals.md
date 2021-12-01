@@ -1,7 +1,6 @@
 +++
 categories = ["Life"]
 tags = [
-    "goals", 
     "life",
 ]
 description = "Goals for my company"
@@ -10,12 +9,21 @@ title = "My [not so] weird [company] goals"
 
 +++
 
-On Sunday night, we had some meeting with my co-directors at some start up I happen to be in. I hate meetings. I kinda feel they are redundant and that they are generally time-consuming. Any way, what I gained from this particular meeting was quite significant. We talked about our goals and where we would like to steer the company. This article will discuss my goals in my own words. My opinions do not in any way represent those of my company. This is a public reference for my future self.
+On Sunday night, we had some meeting with my co-directors at some
+start up I work in. I hate meetings; I feel they are redundant and
+generally time-consuming. That said, what I gained from this
+particular meeting was significant. We talked about our goals and
+where we would like to steer the company. This article will discuss my
+goals in my own voice. My opinions do not in any way represent those
+of my company. This is a public reference for my future self.
 
-In order to set proper goals, it is in order to know why you are setting them, what you stand to lose if you do not accomplish these goals, and finally, your contribution to the achievement of mentioned goals. This post will outline and discuss these things.
+In order to set proper goals, it is important to know why you are
+setting them; what you stand to lose if you do not accomplish these
+goals; and finally, your contribution to the achievement of mentioned
+goals. This post will outline and discuss these things.
 
-So what are my goals for my company? Well, I've made my goals systemic. Systemic in this context means that my goals target the way we do things, not getting/ acquiring things. Here they are:  
-1. *The ability to build more complex and diverse systems*. I want us to move from basic web design work and go on to make more advance web systems that can scale. Building systems is not only restricted to web design work only. I'd also like for us to be able to design some of our own hardware[and make them FOSS]. Things like Lights or studio equipment is what I'm talking about.  
+So what are my goals for my company? Well, I've made my goals systematic. Systematic in this context means that my goals target the way we do things, not getting/ acquiring things. Here they are:  
+1. *The ability to build more complex and diverse systems*. I want us to move from basic web design work and go on to make more advance web systems that can scale. Building systems is not only restricted to web design work only. I'd also like for us to be able to design some of our own hardware(and make them FOSS). Things like Lights or studio equipment is what I'm talking about.  
 2. *Adopting standard coding conventions for various company projects*. These should be extended and improved with time.  
 3. *Writing and building useful software*. The written code should be reviewed by other team members. Tests, if possible, should be written. These projects should be well documented.  
 4. *Adopting Agile in doing projects*.
