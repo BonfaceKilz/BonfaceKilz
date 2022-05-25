@@ -13,7 +13,7 @@ driven minimal browser that I can also use during
 web development. Prior to this switch, I had tried
 [Nyxt](https://nyxt.atlas.engineer/), another keyboard driven browser. My
 experience with Nyxt has mostly been positive, but
-the deal-breaker for me in un-reproducible random
+the deal-breaker for me was un-reproducible random
 crashes that made the browser-experience
 inconvenient/uncomfortable.
 
@@ -38,11 +38,10 @@ c.qt.args = ['disable-seccomp-filter-sandbox']
 
 That said, after working around the aforementioned
 bug with QtWebEngine, my browsing experience with
-qutebrowser has been _suave_. As I keep learning
-more about qutebrowser, I'm always discovering new
-hacks for doing new things with a keyboard that I
-thought difficult. Needless to say, this has been
-an exciting experience and besides GNU Emacs,
-qutebrowser is growing to be one of those tools
-that keeps "fanning the flame" of: _"the joy of
-computing_.
+qutebrowser has been _suave_: I'm always discovering
+new hacks for doing new things with a keyboard
+that I thought difficult. Needless to say, this
+has been an exciting experience and besides GNU
+Emacs, qutebrowser is growing to be one of those
+tools that keeps "fanning the flame" of: _the joy
+of computing_.
