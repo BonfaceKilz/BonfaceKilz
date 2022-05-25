@@ -23,7 +23,7 @@ some web pages---in my qutebrowser install---text
 was not visible. Here's an example of browsing
 GitHub:
 
-{{< figure src="/img/blank-qutebrowser-1.png" >}}
+![Example browsing GitHub in qutebrowser---bug with QtWebEngine](/img/blank-qutebrowser-1.png)
 
 As outlined [here](https://github.com/qutebrowser/qutebrowser/issues/6942), this was an [issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1164975) with
 Chromium. Unfortunately for me, at the time of
