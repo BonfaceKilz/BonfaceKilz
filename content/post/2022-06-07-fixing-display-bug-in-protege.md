@@ -33,7 +33,7 @@ After installation, your beloved author ran into
 an annoying issue where the program started off
 with a blank window:
 
-{{< figure src="./img/2022-06-07-134547_1920x1080_scrot.png" >}}
+![Protege Blank Screen](/img/2022-06-07-134547_1920x1080_scrot.png)
 
 Luckily for your author, this is a well known
 [issue](https://github.com/protegeproject/protege/issues/641) with a straight-forward solution; simply run
