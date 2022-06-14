@@ -1,9 +1,6 @@
 +++
 tags = [
-    "life",
-    "blogging",
-    "wordpress",
-    "hugo",
+	"software",
     ]
 date = "2017-04-17T01:29:56+03:00"
 description = "Moving away from Wordpress"
