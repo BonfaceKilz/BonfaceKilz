@@ -2,8 +2,8 @@
 title = "A Serenity Prayer"
 description = "A Serenity Prayer for anyone working with code in any form"
 tags = [
-    "code",
-    "religion",
+    "software",
+	"poetry"
 ]
 categories = [
     "software",

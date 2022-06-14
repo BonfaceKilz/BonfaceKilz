@@ -1,7 +1,7 @@
 +++
 tags = [
-    "church",
-    "religion",
+    "life",
+    "philosophy",
 ]
 description = "My first time going to church in a long time"
 title = "Church and Fasting"

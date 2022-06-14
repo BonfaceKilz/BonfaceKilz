@@ -1,10 +1,6 @@
 +++
 date = "2016-12-10"
-tags = [
-    "meet-ups", 
-    "linux", 
-    "nailug",
-    ]
+tags = ["linux"f]
 description = "General advice from the NAILUG"
 title = "General Advice for Techies"
 categories = ["life"]
