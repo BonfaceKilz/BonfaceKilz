@@ -19,7 +19,7 @@ over my home network:
     ArchLinux:
 
 ```text
-sudo pacman -S cups avahi nss-mdns
+sudo pacman -S cups avahi nss-mdns hplip
 ```
 
 -   Next, edit `/etc/cups/cupsd.conf` with the
