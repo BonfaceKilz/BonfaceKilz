@@ -15,7 +15,7 @@ primarily talked about their
 challenges/problems. Consequently, to liven things
 up, I began starting my conversations with the
 question: "What is the highlight of your
-week/day?" This however back-fired with one of my
+week/day?" This however back-fired on one of my
 dear ones whereby they never felt heard. They felt
 ignored. The optimistic question: _What is the
 highlight of your week/day?_ came off as
