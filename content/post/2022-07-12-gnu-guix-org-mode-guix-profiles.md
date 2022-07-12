@@ -46,7 +46,7 @@ env PYTHONPATH="/home/bonface/opt/python-science/lib/python3.9/site-packages"\
 ```
 
 Now, we can install isolated python binaries with their "PYTHONPATH" and use that within org-mode; and GNU Guix is that "glue" that helps us out.
-Of course, although it remains unexplored, you apply the same with virtual environments.
+Of course, although it remains unexplored, you can apply the same with virtual environments.
 Now, the end org-mode src-block would look something like this;
 
 ```org
