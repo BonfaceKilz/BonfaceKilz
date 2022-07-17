@@ -65,7 +65,7 @@ lpinfo --include-schemes dnssd -v
 
 -   Use the url found in the previous step to add
     the printer using the web-interface at
-    "localhost:673"
+    "localhost:631"
 
 
 ## Useful Links {#useful-links}
