@@ -54,7 +54,7 @@ sudo pacman -S cups avahi nss-mdns hplip
     enabled/started:
 
 ```text
-sudo pacman systemctl enable cups avahi-daemon.service
+sudo systemctl enable cups avahi-daemon.service
 ```
 
 -   Thereafter, scan for the printer:
