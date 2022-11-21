@@ -41,8 +41,8 @@ In my case, I have this in my "~/bin/,python-science":
 ```sh
 #!/bin/sh
 
-env PYTHONPATH="/home/bonface/opt/python-science/lib/python3.9/site-packages"\
-    /home/bonface/opt/python-science/bin/python3
+env PYTHONPATH="$HOME/opt/python-science/lib/python3.9/site-packages"\
+    $HOME/opt/python-science/bin/python3
 ```
 
 Now, we can install isolated python binaries with their "PYTHONPATH" and use that within org-mode; and GNU Guix is that "glue" that helps us out.
