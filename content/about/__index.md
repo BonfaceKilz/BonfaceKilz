@@ -16,4 +16,4 @@ Well, I consider myself a master[Sensei] in the Art of Anything(Yes, I mastered 
 ### Reach out
 
 Should you feel like you have to communicate to me, please do so by
-mailing me at: me[at]bonfacemunyoki.com \m/\m/
+mailing me at: me[at]bonfacemunyoki[dot]com \m/\m/
