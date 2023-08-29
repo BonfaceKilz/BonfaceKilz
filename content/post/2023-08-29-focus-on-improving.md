@@ -1,5 +1,8 @@
 +++
 title = "Focus on Improving, Not Perfecting"
+description = """
+  Two mindsets: "be-good" seeks perfection, while "get-better" prioritizes growth and self-comparison for less stress.
+  """
 date = 2023-08-30T00:55:00+03:00
 tags = ["productivity"]
 draft = false

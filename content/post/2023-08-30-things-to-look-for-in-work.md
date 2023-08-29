@@ -1,5 +1,8 @@
 +++
 title = "Things To Look For In Work"
+description = """
+  Some pointers to use to qualify work
+  """
 date = 2023-08-29T23:49:00+03:00
 publishDate = 2023-08-29T00:00:00+03:00
 tags = ["life-tips", "life"]
