@@ -13,7 +13,7 @@ In the grand scheme of our limited days, a hefty portion is spent grinding.  See
 
 First, work on things that will put food on your table.  The belly must be filled before you make your move.
 
-Next, work on things that carry with it a promise of anticipation.  A work on things you can look forward to; a beacon on the horizon, a spark of yearning/longing.
+Next, work on things that carry with it a promise of anticipation.  work on things you can look forward to; a beacon on the horizon, a spark of yearning/longing.
 
 Thirdly, seek work you can actively contribute to in an impactful way.
 
