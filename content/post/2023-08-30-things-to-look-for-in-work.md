@@ -13,8 +13,8 @@ In the grand scheme of our limited days, a hefty portion is spent grinding.  See
 
 First, work on things that will put food on your table.  The belly must be filled before you make your move.
 
-Next, work on things that carry with it a promise of anticipation.  work on things you can look forward to; a beacon on the horizon, a spark of yearning/longing.
+Next, work on things that hold the promise of anticipation.  Focus on endeavors that fill you with excitement; envision a beacon on the horizon, a spark of yearning.
 
 Thirdly, seek work you can actively contribute to in an impactful way.
 
-Finally, work that teaches you things; an opportunity to learn and grow, each sweat dropped shaping a chapter etched in experience.
+Finally, work on things that teach you; let work be an opportunity to learn and grow, with each drop of sweat shaping a chapter etched in your personal experience.
