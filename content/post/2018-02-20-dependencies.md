@@ -16,6 +16,6 @@ Here's a list of useful things to run on your root project folder:
 
 1. Keep track of your currently available packages: `npm ls --depth=0`
 2. See if you have unused `npm depcheck`
-3. Cehck the download statistic of a given dependency to see if it's heavily used: `npm-stat`
+3. Check the download statistic of a given dependency to see if it's heavily used: `npm-stat`
 4. Check if a dependency has a good, mature version release frequency with a large number of maintainers: `npm view <package name>`
 5. Check for outdated dependencies: `npm outdated`. You can check for updates using a tool called `npm-check-updates`
