@@ -36,4 +36,4 @@ jobs:
 
       - name: Deploy
         run: |
-          rsync -r --quiet --delete-after public/* bonface@51.15.100.69:/var/www/html
+          rsync -r --quiet --delete-after public/* bonface@51.15.100.69:/home/bonface/bonfacemunyoki.com
