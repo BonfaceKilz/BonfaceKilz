@@ -6,6 +6,6 @@ tags = ["life"]
 draft = false
 +++
 
-A quote from Toni Morriso, Song of Solomon
+A quote from Toni Morrison, Song of Solomon
 
 > She was the third beer.  Not the first one, which the throat receives with almost tearful gratitude; nor the second, that confirms and extends the pleasure of the first.  But the third, the one you drink because it's there, because it can't hurt, and what difference does it make?
