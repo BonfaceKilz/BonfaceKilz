@@ -15,5 +15,4 @@ Well, I consider myself a master[Sensei] in the Art of Anything(Yes, I mastered 
 
 ### Reach out
 
-Should you feel like you have to communicate to me, please do so by
-mailing me at: me[at]bonfacemunyoki[dot]com \m/\m/
+Should you feel like you have to communicate to me, please do so by mailing me at: me[at]bonfacemunyoki[dot]com \m/\m/.  You can also DM on <a rel="me" href="https://hachyderm.io/@saitama">Mastodon</a>
