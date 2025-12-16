@@ -3,8 +3,11 @@ title = "See if what we already know fits the requirements"
 description = "It is important to see if what we already know fits the requirements of the problems and challenges that we face."
 date = 2022-12-08T22:07:00+03:00
 publishDate = 2022-12-08T00:00:00+03:00
-tags = ["productivity"]
+
 draft = false
+
+[taxonomies]
+tags = ["productivity"]
 +++
 
 As we go through life, we are constantly learning new things and acquiring new skills.  But, sometimes we forget to stop and see if what we already know can be applied to the problems and challenges that we face.

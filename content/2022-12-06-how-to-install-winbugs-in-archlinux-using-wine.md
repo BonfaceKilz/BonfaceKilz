@@ -3,8 +3,11 @@ title = "How To Install WinBugs in ArchLinux using Wine"
 description = "How to use Wine to install WinBugs"
 date = 2022-12-06T13:17:00+03:00
 publishDate = 2022-12-06T00:00:00+03:00
-tags = ["linux", "how-to"]
+
 draft = false
+
+[taxonomies]
+tags = ["linux", "how-to"]
 +++
 
 WinBugs is a statistical software tool that's built to explicitly run on Windows.  As such, to be able to run it on a \*Nix system, you have to run it under a compability layer that's able to run Microsoft Windows applications.  In this case, that layer is WINE.  This post outlines how to install WINE, and finally, WinBugs

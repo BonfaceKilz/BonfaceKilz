@@ -1,10 +1,12 @@
 +++
 date = "2016-12-10"
-tags = ["linux"]
+
 description = "General advice from the NAILUG"
 title = "General Advice for Techies"
-categories = ["life"]
 
+[taxonomies]
+tags = ["linux"]
+categories = ["life"]
 +++
 
 <center>Meet Up Summary (Dec, 2016)- Advice to the young'uns</center>

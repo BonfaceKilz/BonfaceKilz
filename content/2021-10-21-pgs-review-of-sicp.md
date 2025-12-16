@@ -3,8 +3,11 @@ title = "Paul Graham's Review of SICP"
 description = "Paul Graham's review of SICP on Amazon from 2000"
 date = 2021-10-21T12:11:00+03:00
 publishDate = 2021-10-21T00:00:00+03:00
-tags = ["scheme", "reviews", "programming"]
+
 draft = false
+
+[taxonomies]
+tags = ["scheme", "reviews", "programming"]
 +++
 
 Here is Paul Graham's review of SICP which you can read from Amazon

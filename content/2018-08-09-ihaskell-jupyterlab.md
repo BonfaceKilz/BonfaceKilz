@@ -1,9 +1,13 @@
 +++
 title = "Using Haskell in JupyterLab"
 description = "Using Haskell in Jupyterlab"
+
+
+date= "2018-08-09"
+
+[taxonomies]
 tags = ["programming", "functional programming"]
 categories = ["software"]
-date= "2018-08-09"
 +++
 
 I've come to appreciate the use of JupyterLab in interactive computing. It is by far the best scientific computing tool that I've used to date. I was pleasantly surprised that they have Emacs bindings too! So far, I've limited myself to using Matlab and Python3 in the notebooks. With Python, I used it to prototype an Automatic Number Plate Recognition(ANPR) system(A computer vision/ machine learning project) for my final year project before writing the release software. With Matlab, I've used it to implement BCH codes, convolution codes and some rudimentary lab work based on digital control systems. Needless to say, it's been an invaluable tool for my school work and personal projects.

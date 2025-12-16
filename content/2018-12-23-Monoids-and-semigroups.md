@@ -5,9 +5,13 @@ description = """
   what they are in the context of Haskell.
   """
 date = 2018-12-23T22:19:00+03:00
+
+
+draft = false
+
+[taxonomies]
 tags = ["haskell", "programming"]
 categories = ["programming"]
-draft = false
 +++
 
 Before talking about Monoids and Semigroups, you first have to understand what

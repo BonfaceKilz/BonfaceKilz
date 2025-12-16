@@ -2,8 +2,11 @@
 title = "Good Commit Messages"
 description = "How to write good commit messages"
 date = 2022-12-08T16:21:00+03:00
-tags = ["git"]
+
 draft = false
+
+[taxonomies]
+tags = ["git"]
 +++
 
 Commit messages are an important part of the software development process, as they provide a way to document and communicate the changes made to a codebase.  Good commit messages make it easier to do some things like generating a comprehensive changelog; and also bisecting code for errors.  A good commit message should be clear, concise, and informative, and should provide context and information about the changes being made.  Here are some pointers for writing good commit messages:

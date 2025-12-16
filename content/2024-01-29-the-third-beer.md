@@ -2,8 +2,11 @@
 title = "The Third Beer"
 description = "Never be the third beer to someone."
 date = 2024-01-29T11:59:00+03:00
-tags = ["life"]
+
 draft = false
+
+[taxonomies]
+tags = ["life"]
 +++
 
 A quote from Toni Morrison, Song of Solomon

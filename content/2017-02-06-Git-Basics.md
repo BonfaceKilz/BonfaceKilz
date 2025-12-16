@@ -1,5 +1,5 @@
 +++
-categories = ["All Things Coding"]
+
 tags = [
     "howto", 
     "git",
@@ -8,6 +8,8 @@ description = "Using git"
 title = "Git Basics for anyone"
 date = "2017-02-06T17:58:48+03:00"
 
+[taxonomies]
+categories = ["All Things Coding"]
 +++
 
 Git is a Version Control System that is used to keep tracker of changes in your project. The thing I like about Git is that it's liberal[and flexible] in how and when you use it. It was designed by Linus Torvalds(yes, the creator of the Linux Kernel) as an alternative to a tool they had been using since the free-of-charge status of the version control system they[the Linux community] had been using had been revoked. You can read more [here](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git).In this article, I will show you just enough of Git to get up and running in your work.

@@ -2,8 +2,11 @@
 title = "Growth and Grit"
 description = "An inspiring quote about growth"
 date = 2021-06-29T11:31:00+03:00
-tags = ["life"]
+
 draft = false
+
+[taxonomies]
+tags = ["life"]
 +++
 
 [Original Source](https://jamesclear.com/3-2-1/april-29-2021)

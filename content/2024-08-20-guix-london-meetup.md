@@ -3,8 +3,11 @@ title = "Notes on Using Mumi — Guix London Meet-Up 2024-08-20"
 description = "My notes from today's meet-up."
 date = 2024-08-29T22:08:00+03:00
 publishDate = 2024-08-29T00:00:00+03:00
-tags = ["guix"]
+
 draft = false
+
+[taxonomies]
+tags = ["guix"]
 +++
 
 -   Check out guix toys.

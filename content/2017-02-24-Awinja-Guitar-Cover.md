@@ -1,6 +1,6 @@
 +++
 date = "2017-02-24T19:07:23+03:00"
-categories = ["Music"]
+
 tags = [
     "guitar",
     "music",
@@ -8,6 +8,8 @@ tags = [
 description = "Ramblings of some guitar cover I did"
 title = "Awinja Guitar Cover"
 
+[taxonomies]
+categories = ["Music"]
 +++
 
 I've kinda always told myself that I would be uploading YouTube videos as regularly as I could. Well that never really happened, until today. I randomly woke up and felt like uploading one, which I did. A cover of Sauti Sol's song- Awinja. You can find it [here](https://youtu.be/ZbGrdmTI4sc). For this video I used, Cheese[some Linux webcam software], a C1U behringer microphone and the inbuilt laptop webcam[forgive the quality]. 

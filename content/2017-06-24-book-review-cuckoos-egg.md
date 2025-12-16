@@ -1,10 +1,13 @@
 +++
-categories = ["reviews"]
+
 date = "2017-06-24T19:34:38+03:00"
 description = "A book review of the book, The Cuckoo's Egg: Tracking a spy through the maze of computer espionage"
-tags = ["reviews", ]
+
 title = "Book Review: \"The Cuckoo's Egg: Tracking a spy through the maze of computer espionage\" by Clifford Stoll"
 
+[taxonomies]
+tags = ["reviews", ]
+categories = ["reviews"]
 +++
 
 I first came across this book when a friend casually mentioned it in one of Urban Perspective's book club meet ups. What drew me towards this book was that it chronicled a systems administrator's journey in catching a hacker who'd penetrated his system. I was curious to find out how a system admin's world was back in the 80's. Needless to say, it was very interesting.

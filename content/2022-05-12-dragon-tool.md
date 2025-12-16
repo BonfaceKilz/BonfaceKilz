@@ -2,8 +2,11 @@
 title = "Terminal/Emacs Driven Drag and Drop"
 description = "Using drag-and-drop from the Terminal/Emacs"
 date = 2022-05-12T17:39:00+03:00
-tags = ["terminal", "productivity", "emacs"]
+
 draft = false
+
+[taxonomies]
+tags = ["terminal", "productivity", "emacs"]
 +++
 
 File Managers, and many web/desktop

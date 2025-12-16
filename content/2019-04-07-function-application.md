@@ -2,8 +2,11 @@
 title = "Functional Application (Notes)"
 description = "Some short notes on function application in Haskell"
 date = 2019-04-07T00:00:00+03:00
-tags = ["haskell", "functional-programming"]
+
 draft = false
+
+[taxonomies]
+tags = ["haskell", "functional-programming"]
 +++
 
 In Haskell, functional application associates to the left in expressions and also has the highest binding power. What does this mean?

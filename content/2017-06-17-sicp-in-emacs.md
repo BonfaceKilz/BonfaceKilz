@@ -1,10 +1,13 @@
 +++
-categories = ["sicp", "Emacs"]
+
 date = "2017-06-17T22:28:57+03:00"
 description = "A short guide on how to read SICP in Emacs using INFO-MODE"
-tags = ["sicp", "Emacs"]
+
 title = "Reading SICP in Emacs"
 
+[taxonomies]
+tags = ["sicp", "Emacs"]
+categories = ["sicp", "Emacs"]
 +++
 
 Since MIT Press distributed the book Structure and Interpretation of Computer Programs(SICP) in HTML, some very nice people in the interwebs converted the book into texinfo format. This means that you can now view the book in Emacs woOt!

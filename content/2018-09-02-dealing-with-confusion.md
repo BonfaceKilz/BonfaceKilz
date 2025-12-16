@@ -1,9 +1,13 @@
 +++
 title = "Dealing with Confusing Problems/ Situations"
 description = "Heuristics for dealing with problems"
+
+
+date = "2018-09-02"
+
+[taxonomies]
 tags = ["life", "philosophy"]
 categories = ["live"]
-date = "2018-09-02"
 +++
 
 A lot of times in life, we are placed in situations where we really do not know what to do. Such situations can be called "confusing". Well, a simple way to overcome this would be to first to try to *identify* what aspect of the problem is confusing. Identifying, or trying to identify the problem forces you to think about the problem in a deeper level. This step can be really hard, since you might be forced to think about some really uncomfortable things, perharps the kind of things that make you feel all eeky on the inside.

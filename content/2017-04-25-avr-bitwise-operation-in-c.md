@@ -1,10 +1,13 @@
 +++
-categories = ["electronics"]
+
 date = "2017-04-25"
 description = "Some fundamental basics in AVR programming. Working with bits."
-tags = ["avr", "electronics"]
+
 title = "Bitwise Operations in AVR"
 
+[taxonomies]
+tags = ["avr", "electronics"]
+categories = ["electronics"]
 +++
 I've realised I've become abit rusty when it comes to microcontroller stuff. I've decided to tinker with things and I thought it'd be cool to write about C bit manipulation since I use it alot when programming microcontrollers. Here's an example of a set of macros that uses bit manipulation:
 

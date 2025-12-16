@@ -2,8 +2,11 @@
 title = "Communication- Stuff I've Learnt From Work"
 description = "Being effective at communicating with other people is an important aspect of deving. In this article, I try to articulate why this is so."
 date = 2019-06-17T21:01:00+03:00
-tags = ["life-tips", "philosophy", "project-management", "productivity"]
+
 draft = false
+
+[taxonomies]
+tags = ["life-tips", "philosophy", "project-management", "productivity"]
 +++
 
 > **Miscommunication is the number one cause of all problems; communication is your bridge to other people. Without it, there's nothing. So when it's damaged, you have to solve all these problems it creates.**

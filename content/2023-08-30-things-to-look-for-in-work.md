@@ -5,8 +5,11 @@ description = """
   """
 date = 2023-08-29T23:49:00+03:00
 publishDate = 2023-08-29T00:00:00+03:00
-tags = ["life-tips", "life"]
+
 draft = false
+
+[taxonomies]
+tags = ["life-tips", "life"]
 +++
 
 In the grand scheme of our limited days, a hefty portion is spent grinding.  Seems only right to find joy in it, ey?  So, what's the essence of work?  Allow me to unveil, drawing from [Yass'](https://www.linkedin.com/in/yassmuse/) wisdom:

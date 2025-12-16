@@ -1,10 +1,13 @@
 +++
-categories = ["programming", "abstraction"]
+
 date = "2017-08-28T01:18:11+03:00"
 description = "I discuss how to implement Scheme's basic pair data structure in Python for fun using Message Passing. Scheme is a Lisp dialect"
-tags = ["abstraction", "scheme", "programming"]
+
 title = "Implementing Lisp pairs in Python 3.6.1"
 
+[taxonomies]
+tags = ["abstraction", "scheme", "programming"]
+categories = ["programming", "abstraction"]
 +++
 I've come to like Python. It makes rapid prototyping things way easier. I also appreciate that it treats functions as first class citizens, something that (maybe) many Python hackers do not know. I thought it'd be cool to implement one of Scheme's(Scheme is a Lisp variant) basic structures, the ***pair***, in Python. I'll use a form of Message Passing to do this(more on this later). 
 

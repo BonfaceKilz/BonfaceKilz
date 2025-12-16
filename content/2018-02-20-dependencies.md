@@ -5,9 +5,12 @@ tags = [
     "programming",
     "javascript",
 ]
-categories = ["coding"]
+
 slug="managing-dependencies"
 date = "2018-02-20"
+
+[taxonomies]
+categories = ["coding"]
 +++
 
 It's been very busy year this. I'm juggling work(yes I work nowadays), school, and my final year project(some ML stuff). This post is a simple reference for my future self on how to to handle dependencies in a sane way. I noticed that alot of fellas out there barely track dependencies on their project, and this is a very bad idea.

@@ -3,8 +3,11 @@ title = "The Stories We Tell Ourselves"
 description = "The stories we tell ourselves"
 date = 2021-10-25T15:15:00+03:00
 publishDate = 2021-10-13T00:00:00+03:00
-tags = ["life"]
+
 draft = false
+
+[taxonomies]
+tags = ["life"]
 +++
 
 Here's another one from one of James Clear's newsletter:

@@ -5,9 +5,13 @@ description = """
   experience so far.
   """
 date = 2018-12-16T09:25:00+03:00
+
+
+draft = false
+
+[taxonomies]
 tags = ["technology"]
 categories = ["technology"]
-draft = false
 +++
 
 > **I'm tired of trying to do something worthwhile for the human race, they simply**

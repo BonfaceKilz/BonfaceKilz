@@ -1,13 +1,15 @@
 +++
 title = "Software/ Hardware Dev Laws"
 date = "2017-02-27T19:12:42+03:00"
-categories = ["All Things Coding, Life"]
+
 tags = [
     "funny",
     "software"
     ]
 description = "Some random article I found lying around in my hard drive"
 
+[taxonomies]
+categories = ["All Things Coding, Life"]
 +++
 
 I found this lying somewhere in my hard drive and I found it amusing. It's probably from some article I read along long time ago. 

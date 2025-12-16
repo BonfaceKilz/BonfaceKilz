@@ -2,8 +2,11 @@
 title = "Productive Stupidity"
 description = "Random thoughts about productive stupidity."
 date = 2022-12-08T16:10:00+03:00
-tags = ["philosophy"]
+
 draft = false
+
+[taxonomies]
+tags = ["philosophy"]
 +++
 
 "Productive stupidity" is a term that is sometimes used to describe the idea of embracing or promoting ignorance or foolishness in order to achieve a goal or result.  This concept is often associated with the phrase "the wisdom of fools", which suggests that sometimes the best way to solve a problem or make a decision is to ignore or dismiss conventional wisdom or expert advice, and instead rely on intuition, instinct, or sheer luck.

@@ -3,8 +3,11 @@ title = "Impact Driven Development"
 description = "Discussing impact wrt work"
 date = 2022-12-10T18:51:00+03:00
 publishDate = 2022-12-10T00:00:00+03:00
-tags = ["philosophy", "productivity"]
+
 draft = false
+
+[taxonomies]
+tags = ["philosophy", "productivity"]
 +++
 
 This is based off a conversation that I had with my older [sibling](https://jnduli.co.ke/) in the morning in one of our walks:

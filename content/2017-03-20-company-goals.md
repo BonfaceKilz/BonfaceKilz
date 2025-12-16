@@ -1,5 +1,5 @@
 +++
-categories = ["Life"]
+
 tags = [
     "life",
 ]
@@ -7,6 +7,8 @@ description = "Goals for my company"
 date = "2017-03-20"
 title = "My [not so] weird [company] goals"
 
+[taxonomies]
+categories = ["Life"]
 +++
 
 On Sunday night, we had some meeting with my co-directors at some

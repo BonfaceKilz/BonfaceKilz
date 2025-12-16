@@ -3,8 +3,11 @@ title = "Setting up a HP Printer in Linux"
 description = "Setting up a HP printer in Linux"
 date = 2022-06-13T20:47:00+03:00
 publishDate = 2022-06-13T00:00:00+03:00
-tags = ["linux", "howto"]
+
 draft = false
+
+[taxonomies]
+tags = ["linux", "howto"]
 +++
 
 I have a "HP DeskJet Ink Advantage 4535" printer

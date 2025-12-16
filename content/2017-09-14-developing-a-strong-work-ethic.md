@@ -1,10 +1,13 @@
 +++
-categories = ["philosophy", "productivity", "society", "work"]
+
 date = "2017-09-14T22:05:11+03:00"
 description = "Random musings on developing a decent work ethic"
-tags = ["philosophy", "productivity", "society", "work"]
+
 title = "Developing a strong work ethic"
 
+[taxonomies]
+tags = ["philosophy", "productivity", "society", "work"]
+categories = ["philosophy", "productivity", "society", "work"]
 +++
 Last Saturday, I successfully hosted a book club(Urban Perspective) meet-up at some popular coffee place somewhere in the Nairobi city center(Café Deli). What I got from the experience was something quite insightful. We explored some of the great thinkers and doers of our society and wondered what contributed to their perceived success. *What can we learn from them?* This question led us to talk about *work culture* and its influence in our society.
 

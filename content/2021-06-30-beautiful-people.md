@@ -2,8 +2,11 @@
 title = "On Beautiful People"
 description = "On matters beauty"
 date = 2021-06-30T12:42:00+03:00
-tags = ["life"]
+
 draft = false
+
+[taxonomies]
+tags = ["life"]
 +++
 
 The most beautiful people we have known are those who have known

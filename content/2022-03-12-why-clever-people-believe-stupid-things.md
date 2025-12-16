@@ -6,8 +6,11 @@ description = """
   """
 date = 2022-03-12T18:34:00+03:00
 publishDate = 2022-03-12T00:00:00+03:00
-tags = ["philosophy", "life"]
+
 draft = false
+
+[taxonomies]
+tags = ["philosophy", "life"]
 +++
 
 These are some (self-explanatory) points from the book: "Bad Science"

@@ -3,8 +3,11 @@ title = "GNU Guix + Guix Profiles + Org Mode = Python In Org!"
 description = "How to hook up Python+PYTHONPATH in org-mode"
 date = 2022-07-12T20:15:00+03:00
 publishDate = 2022-07-12T00:00:00+03:00
-tags = ["how-to", "Emacs"]
+
 draft = false
+
+[taxonomies]
+tags = ["how-to", "Emacs"]
 +++
 
 Have you ever wondered how you could point to any version of Python---with the correct PYTHONPATH set correctly---in your org-mode file?

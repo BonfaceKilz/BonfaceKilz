@@ -1,10 +1,13 @@
 +++
-categories = ["electronics"]
+
 date = "2017-04-28T18:56:26+03:00"
 description = "A short introduction to AVR Timers"
-tags = ["electronics, AVR, timers"]
+
 title = "AVR Timers"
 
+[taxonomies]
+tags = ["electronics, AVR, timers"]
+categories = ["electronics"]
 +++
 
 ### Introduction ###

@@ -2,8 +2,11 @@
 title = "Updating The Keyboard Layout of a TTY screen"
 description = "How to update the keyboard layout of a TTY screen"
 date = 2022-01-13T12:58:00+03:00
-tags = ["linux"]
+
 draft = false
+
+[taxonomies]
+tags = ["linux"]
 +++
 
 I normally use the [dvorak programmer keyboard layout](https://www.kaufmann.no/roland/dvorak/); but that is only

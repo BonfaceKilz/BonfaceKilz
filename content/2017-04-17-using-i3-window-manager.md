@@ -2,9 +2,10 @@
 description = "The awesomness that is i3"
 title = "Using i3 window manager"
 date = "2017-04-17T11:42:07+03:00"
-categories = ["linux"]
-tags = ["linux"]
 
+[taxonomies]
+tags = ["linux"]
+categories = ["linux"]
 +++
 
 I've almost always been a gnome fanatic. I lived and breathed gnome. I highly configured it to my needs. Well, this Easter I guess I've been "radicalised" by my older brother. With promises of sheer awesomeness coupled with the feeling of absolute control, I gave i3 a shot; I loved it.

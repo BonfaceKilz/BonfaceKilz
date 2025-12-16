@@ -3,8 +3,11 @@ title = "My 5 Minute Journal Daily Routine"
 description = "My daily 5 minute journal routine"
 date = 2021-11-07T11:44:00+03:00
 publishDate = 2021-10-27T00:00:00+03:00
-tags = ["howto", "life"]
+
 draft = false
+
+[taxonomies]
+tags = ["howto", "life"]
 +++
 
 I've been maintaining a [Bullet Journal](https://bulletjournal.com/) since around 2018.  A former

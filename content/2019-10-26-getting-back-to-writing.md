@@ -2,8 +2,11 @@
 title = "Getting Back"
 description = "Some little rant about blogging"
 date = 2019-10-28T00:16:00+03:00
-tags = ["productivity", "life"]
+
 draft = false
+
+[taxonomies]
+tags = ["productivity", "life"]
 +++
 
 It's been a while since I posted something here. I've been busy with life :(

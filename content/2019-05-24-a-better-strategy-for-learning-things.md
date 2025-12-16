@@ -2,8 +2,11 @@
 title = "A better strategy for learning things"
 description = "I present a consistent way for learning things"
 date = 2019-05-24T10:41:00+03:00
-tags = ["life-tips"]
+
 draft = false
+
+[taxonomies]
+tags = ["life-tips"]
 +++
 
 We live in an age where there is an excess of information out there in the world. This can be overwhelming, especially if you are a curious person who wants to grow him/herself. I stumbled upon some little [gem](https://ncase.me/remember/) here that presented an interesting mental model for learning(and remembering) new things.

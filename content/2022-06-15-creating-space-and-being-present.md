@@ -6,8 +6,11 @@ description = """
   """
 date = 2022-06-15T20:59:00+03:00
 publishDate = 2022-06-15T00:00:00+03:00
-tags = ["life-tips", "mental-health"]
+
 draft = false
+
+[taxonomies]
+tags = ["life-tips", "mental-health"]
 +++
 
 Some time ago, I noticed that people close to me

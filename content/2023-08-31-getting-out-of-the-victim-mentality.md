@@ -3,8 +3,11 @@ title = "Alternatives to seeing the world from the victim perspective"
 description = "How do we get out of the victim mentality?"
 date = 2023-08-31T20:08:00+03:00
 publishDate = 2023-04-03T00:00:00+03:00
-tags = ["Blog", "life-tips", "life"]
+
 draft = false
+
+[taxonomies]
+tags = ["Blog", "life-tips", "life"]
 +++
 
 [In my time alive, I once held the conviction that I would weather the company of certain folk.  The things we do for love, ey?  It turns out, I was wrong.  Painful.  Bitter.  Hurt.  That's how it felt.  This post draws it's essence from one of James Clear's newsletters, a missive that struck the bull's eye with my own personal experience with some people.  Yet I was blind to it at the time.  Naturally, this post will never grate the eyes/ears of it's subjects; for this is a haven in which my sincerity, wrong as it may be perceived to be, is penned without the abrasion of confrontation.  Here, I write my notes, a benevolent well thought out offering to the me that is yet to emerge, a whispered guidance for the moments that lie ahead.  This long-ish introduction is a subtle marker for my future self and friends too, to illuminate the reasons that compelled me to craft this post]

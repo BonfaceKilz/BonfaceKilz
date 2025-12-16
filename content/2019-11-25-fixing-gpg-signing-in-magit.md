@@ -3,8 +3,11 @@ title = "Fixing GPG Signing in Magit"
 description = "Signing commits in magit"
 date = 2019-11-25T22:06:00+03:00
 publishDate = 2019-11-25T00:00:00+03:00
-tags = ["freebsd", "emacs"]
+
 draft = false
+
+[taxonomies]
+tags = ["freebsd", "emacs"]
 +++
 
 Today in the evening, when I wanted to sign my commits in [magit](https://magit.vc/), I came across this error:

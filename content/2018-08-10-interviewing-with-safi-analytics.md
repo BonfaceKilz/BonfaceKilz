@@ -1,10 +1,13 @@
 +++
 title = "First Round Pick Interviewing at Safi Analytics"
 description = "An exhausted me talks about Hackerrank interiviews, goals, books, and more books"
-tags = ["interviews", "jobs", "software"]
-categories = ["jobs", "career"]
+
+
 date = "2018-08-08"
 
+[taxonomies]
+tags = ["interviews", "jobs", "software"]
+categories = ["jobs", "career"]
 +++
 
 <details>

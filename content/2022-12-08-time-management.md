@@ -3,8 +3,11 @@ title = "Becoming Better At Time Management - Notes"
 description = "Becoming better at Time Management."
 date = 2022-12-08T16:33:00+03:00
 publishDate = 2022-12-08T00:00:00+03:00
-tags = ["productivity"]
+
 draft = false
+
+[taxonomies]
+tags = ["productivity"]
 +++
 
 [Note to future self]

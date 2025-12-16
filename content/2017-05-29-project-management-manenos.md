@@ -1,10 +1,13 @@
 +++
-categories = ["philosophy"]
+
 date = "2017-05-29T22:43:12+03:00"
 description = "Lessons from my elder brother"
-tags = ["philosophy", "project management", "howto"]
+
 title = "Project Management Philosophies"
 
+[taxonomies]
+tags = ["philosophy", "project management", "howto"]
+categories = ["philosophy"]
 +++
 
 I pride myself in being a technically oriented individual. I love solving problems, moreso interesting ones. I love learning new(technical) things. I am basically this dude:

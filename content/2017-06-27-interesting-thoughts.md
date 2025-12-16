@@ -1,10 +1,13 @@
 +++
-categories = ["philosophy"]
+
 date = "2017-07-21T23:46:20+03:00"
 description = "Some random quotes while reading Eric Hoffman's True Believer"
-tags = ["life", "philosophy"]
+
 title = "Random quotes from Eric Hoffman's True Believer"
 
+[taxonomies]
+tags = ["life", "philosophy"]
+categories = ["philosophy"]
 +++
 
 I've been reading the book: **True Believer** for a while now. Here are some (random) quotes I've found interesting thus far in the book :)

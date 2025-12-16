@@ -1,9 +1,13 @@
 +++
 title = "Haskell- Elegances in Functional Programming"
 description = "Short musings on FP with Haskell"
+
+
+date = "2018-08-07"
+
+[taxonomies]
 tags = ["programming", "functional programming"]
 categories = ["programming", "functional programming"]
-date = "2018-08-07"
 +++
 
 In this past few months, I've delved deep into Functional Programming(FP). FP is a functional paradigm whereby functions are the basic building blocks of various abstractions. In FP, we build more abstractions by composing small functions together. One great motivation for this is my desire build robust, terse and correct programs that are easy to test. At work, I've been tasked with maintaining and adding new features to a system that runs on unsupported [php] framework; which barely has any (code) test coverage. My frustrations working in such an environment have greatly inspired me to look for ways to hone my deving craft- hence FP.

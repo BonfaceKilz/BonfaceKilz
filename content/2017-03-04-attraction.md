@@ -2,12 +2,14 @@
 description = "Weird rumblings on sexiness"
 title = "Attraction"
 date = "2017-03-04T19:34:48+03:00"
-categories = ["Life"]
+
 tags = [
     "life",
     "philosophy"
     ]
 
+[taxonomies]
+categories = ["Life"]
 +++
 
 Yesterday was a random meet-up with ninjas I studied with at primary school(a long time ago). It was interesting meeting a diverse group of people over at some great coffee place that unfortunately had some not-so-good fries. Anyway, we got to talk about shit loads of stuff, ranging from dissecting[the med ninjette around] people[_creepy w00t!_ 

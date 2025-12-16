@@ -3,8 +3,11 @@ title = "The 4 Horsemen of Relationships"
 description = "To improve relationships, practice empathy and address problems directly to avoid negative communication habits like criticism, contempt, defensiveness, and stonewalling."
 date = 2022-12-14T15:51:00+03:00
 publishDate = 2022-12-14T00:00:00+03:00
-tags = ["communication", "relationships"]
+
 draft = false
+
+[taxonomies]
+tags = ["communication", "relationships"]
 +++
 
 [This is based off [this](https://twitter.com/mattschnuck/status/1569703381685661696) twitter post]

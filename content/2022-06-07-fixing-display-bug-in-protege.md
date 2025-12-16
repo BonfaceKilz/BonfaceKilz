@@ -6,8 +6,11 @@ description = """
   primary package manager)
   """
 date = 2022-06-07T13:59:00+03:00
-tags = ["howto"]
+
 draft = false
+
+[taxonomies]
+tags = ["howto"]
 +++
 
 Your dear author is learning how to create an

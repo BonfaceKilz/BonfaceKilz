@@ -1,10 +1,13 @@
 +++
-categories = ["philosophy", "work"]
+
 date = "2017-10-04T20:03:00+03:00"
 description = "A short article describing an initiative- #Kreate- that I'm part of"
-tags = ["philosophy", "work"]
+
 title = "#Kreate Initiative"
 
+[taxonomies]
+tags = ["philosophy", "work"]
+categories = ["philosophy", "work"]
 +++
 
 > Poverty when coupled with creativeness is usually free of frustration. This is true of the poor artisan skilled in his trade and of the poor writer, artist and scientist in the full possession of creative powers. Nothing so bolsters our self-confidence and reconciles us with ourselves as the continuous ability to create; to see things grow and develop under our hand, day in, day out. The decline of handicrafts in modern times is perhaps one of the causes for the rise of frustration and the increased susceptibility of the individual to mass movements.

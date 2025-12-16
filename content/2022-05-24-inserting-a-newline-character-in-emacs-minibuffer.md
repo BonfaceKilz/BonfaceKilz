@@ -6,8 +6,11 @@ description = """
   """
 date = 2022-05-24T20:56:00+03:00
 publishDate = 2022-05-24T00:00:00+03:00
-tags = ["emacs"]
+
 draft = false
+
+[taxonomies]
+tags = ["emacs"]
 +++
 
 Most commands in GNU Emacs are entered in a

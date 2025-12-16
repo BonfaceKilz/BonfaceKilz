@@ -1,7 +1,7 @@
 +++
 date = "2017-02-21T18:20:44+03:00"
 title = "Elements of Programming"
-categories = ["SICP"]
+
 tags = [
     "fundamentals", 
     "programming", 
@@ -9,6 +9,8 @@ tags = [
     ]
 description = "A summary of SICP section 1.1"
 
+[taxonomies]
+categories = ["SICP"]
 +++
 
 The three things that a powerful computer language should have is:  

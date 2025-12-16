@@ -2,8 +2,11 @@
 title = "Dvorak-P; 4 Years Later"
 description = "Upgrade your typing skills and banish finger cramps with the superior Dvorak-P keyboard layout!"
 date = 2022-12-11T11:33:00+03:00
-tags = ["technology", "reviews"]
+
 draft = false
+
+[taxonomies]
+tags = ["technology", "reviews"]
 +++
 
 [Four years ago](https://www.bonfacemunyoki.com/post/2018-12-14-switching-to-programmers-dvorak/), I made the switch from the standard QWERTY keyboard layout to the [Dvorak-P](https://www.kaufmann.no/roland/dvorak/index.html) layout. It was a difficult transition at first, but I was determined to experiment and see if it could improve my typing speed and efficiency.  Fast forward to today, and I can confidently say that the switch to Dvorak-P was a decent one. My typing speed has increased dramatically, and I [very importantly] no longer have to worry about those pesky finger cramps that used to plague me.

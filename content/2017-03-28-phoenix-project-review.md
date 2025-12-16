@@ -7,8 +7,9 @@ tags = [
 date = "2017-03-28"
 description = "A review of the book: The Phoenix Project"
 title = "The Phoenix Project- Review"
-categories = ["reviews"]
 
+[taxonomies]
+categories = ["reviews"]
 +++
 
 The Phoenix Project is a good read. I stumbled upon this book from Quora. As the title says, it's more or less a book about IT and project management. At first I was a bit skeptical reading it because of the title, but I gave it a read any way.

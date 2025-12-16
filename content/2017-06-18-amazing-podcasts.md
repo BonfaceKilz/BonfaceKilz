@@ -1,9 +1,13 @@
 +++
-categories = ["entertainment"]
+
 date = "2017-06-18T19:53:55+03:00"
 description = "Some great podcasts you should listen to"
-tags = ["podcasts", "music", "entertainment", "random", "productivity"]
+
 title = "Some great podcasts you should give a try"
+
+[taxonomies]
+tags = ["podcasts", "music", "entertainment", "random", "productivity"]
+categories = ["entertainment"]
 +++
 
 Podcasts have become a great part of my personal life. I love podcasts because you get to while your time away in such a decent productive fashion in places such as traffic jams, or when doing some dull repetitive chores. Don't jump to the conclusion that I only listen to podcasts when I have nothing better to do; That's far from the truth. I listen to podcasts because the shows expose a different way of thinking in addition to sharing some really great insight into some stuff. You also get to 'interact' with some really great people who are doing it big in their respective fields. I thought it'd be cool to write a list of all the podcasts I am currently listening to. This list is no specific order.

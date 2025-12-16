@@ -4,8 +4,11 @@ description = """
   Two mindsets: "be-good" seeks perfection, while "get-better" prioritizes growth and self-comparison for less stress.
   """
 date = 2023-08-30T00:55:00+03:00
-tags = ["productivity"]
+
 draft = false
+
+[taxonomies]
+tags = ["productivity"]
 +++
 
 In our pursuits, we can tread two distinct paths of the mind: the "be-good" path and the "get-better" path.  Picture this: the "be-good" way fixates on showcasing what's already known, while the "get-better" way immerses in honing skills and forging new ones.  It's akin to yearning to flaunt wisdom versus yearning to amass wisdom.

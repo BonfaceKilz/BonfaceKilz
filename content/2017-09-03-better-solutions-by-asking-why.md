@@ -1,10 +1,13 @@
 +++
-categories = ["life", "society", "work"]
+
 date = "2017-09-03T02:24:00+03:00"
 description = "Perhaps finding out why your client wants something will help you come up with a better solution that best suits their needs. This article is the outcome of a conversation I had with a friend."
-tags = ["life", "society", "work"]
+
 title = "Finding better solutions for other people by finding out the 'Why'"
 
+[taxonomies]
+tags = ["life", "society", "work"]
+categories = ["life", "society", "work"]
 +++
 
 Let's have a thought experiment. Imagine you are given a problem. Perhaps a simple problem like this one:

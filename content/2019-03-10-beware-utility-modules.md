@@ -5,9 +5,13 @@ description = """
   article describes why.
   """
 date = 2019-03-10T21:13:00+03:00
+
+
+draft = false
+
+[taxonomies]
 tags = ["programming", "software"]
 categories = ["programming"]
-draft = false
 +++
 
 > **We build our computer systems the way we build our cities;**

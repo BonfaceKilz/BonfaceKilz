@@ -2,8 +2,11 @@
 title = "GNU Emacs find-file to a specific line"
 description = "How to make find-file open and go a given line-number"
 date = 2022-05-26T18:17:00+03:00
-tags = ["programming", "emacs"]
+
 draft = false
+
+[taxonomies]
+tags = ["programming", "emacs"]
 +++
 
 In GNU Emacs, there's no way that I am aware of

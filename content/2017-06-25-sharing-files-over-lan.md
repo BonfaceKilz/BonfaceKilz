@@ -1,10 +1,13 @@
 +++
-categories = ["productivity"]
+
 date = "2017-06-25T16:01:59+03:00"
 description = "How to share and download files over LAN"
-tags = ["fundamentals", "productivity", "software"]
+
 title = "Quickly sharing files over a Local Area Network"
 
+[taxonomies]
+tags = ["fundamentals", "productivity", "software"]
+categories = ["productivity"]
 +++
 I do this(sharing files over LAN) all the time at home so I figured I'd just write about it. Sharing files over LAN avoids the constant hurdle of looking for a flash drive or some external medium to share files.
 

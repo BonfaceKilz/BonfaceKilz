@@ -1,12 +1,14 @@
 +++
 date = "2017-03-31T20:18:56+03:00"
-categories = ["Life"]
+
 tags = [
     "random"
 ]
 description = "Some random stuff I came across"
 title = "[Not so]Intelligent Rumblings I"
 
+[taxonomies]
+categories = ["Life"]
 +++
 
 My life nowadays has been revolving around anime[Naruto Shipuuden], building a couple of websites[alone], SICP[amazing!] and spending time with my sister. I weirdly feel like a zombie, walking along some path with rotten grey matter sticking out of my head and occasionally rumbling some incoherent words to myself.

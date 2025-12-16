@@ -1,9 +1,13 @@
 +++
 title = "Running MySQL on Docker"
 description = "Deploying and using a MySQL Docker container"
+
+
+date = "2017-12-17T20:03:00+03:00"
+
+[taxonomies]
 tags = ["howto", "linux", "software"]
 categories = ["howto", "linux", "software"]
-date = "2017-12-17T20:03:00+03:00"
 +++
 
 In Arch Linux, MariaDB is the *default implementation* of MySQL. Today, I found myself in a situation where I needed to run a laravel application that uses the Oracle MySQL. Docker has come in handy in this situation because I already have MariaDB installed in my system. This is post is a quick walk through of how to deploy a MySQL Docker container. You should have Docker installed if you want to follow through.

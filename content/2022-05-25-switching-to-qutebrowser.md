@@ -2,8 +2,11 @@
 title = "Switching to QuteBrowser"
 description = "Tidbits on my experience switching to QuteBrowser"
 date = 2022-05-25T16:02:00+03:00
-tags = ["technology"]
+
 draft = false
+
+[taxonomies]
+tags = ["technology"]
 +++
 
 Recently, I switched from Firefox to [qutebrowser](https://www.qutebrowser.org/)

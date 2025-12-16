@@ -1,10 +1,13 @@
 +++
-categories = ["reviews"]
+
 date = "2017-05-05T11:54:40+03:00"
 description = "A review of the book: Head First C"
-tags = ["reviews", "programming"]
+
 title = "Head First C- A Review"
 
+[taxonomies]
+tags = ["reviews", "programming"]
+categories = ["reviews"]
 +++
 
 I began reading Head First C after being exposed to Head First Design Patterns. For me, this was brushing up on my C in addition to learning some new stuff related with C(like threads!). If you are one of those people who hate a lot of stories and nonsensical stuff in technical books, this book ain't for you. It's full of those. They even have some really weird pictures going on.

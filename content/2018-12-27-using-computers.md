@@ -5,8 +5,11 @@ description = """
   integral computers have become in my life and how dependent we have become on them.
   """
 date = 2018-12-28T00:49:00+03:00
-tags = ["technology"]
+
 draft = false
+
+[taxonomies]
+tags = ["technology"]
 +++
 
 > **I suppose many people will continue moving towards careless computing, because there's**

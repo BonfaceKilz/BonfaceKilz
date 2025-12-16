@@ -3,8 +3,11 @@ title = "Sad Tunez - PlayList"
 description = "A sad, albeit with a tinge of hope, playlist"
 date = 2022-12-06T13:49:00+03:00
 publishDate = 2022-11-28T00:00:00+03:00
-tags = ["music", "entertainment"]
+
 draft = false
+
+[taxonomies]
+tags = ["music", "entertainment"]
 +++
 
 Before I share this playlist, I'd first like to acknowledge Leon [Omosh] - some random friend-of-a-friend I used to vibe with in my campus days.  Man-dem is an exceptional producer; and in-as-much as we are out of touch nowadays, he still has the 'feels' in his beats.  Watch how he produced [Kengele](https://youtu.be/bNECfyyqEW4) in this [BTS clip](https://www.youtube.com/watch?v=mRDcBNgMj3M).

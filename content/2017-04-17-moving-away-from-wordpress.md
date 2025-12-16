@@ -5,8 +5,9 @@ tags = [
 date = "2017-04-17T01:29:56+03:00"
 description = "Moving away from Wordpress"
 title = "The Migration: From WordPress to Hugo"
-categories = ["Life"]
 
+[taxonomies]
+categories = ["Life"]
 +++
 
 I've been using wordpress for 6 months now. Well, for my personal content, its about time I moved on to something I think is better. In my case, I've chosen Hugo, a static website generator that makes deployment of content quite easy.

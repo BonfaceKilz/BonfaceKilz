@@ -3,8 +3,11 @@ title = "Consistency is Key: How to Choose Habits that Stick"
 description = "Learn how to build identity-based habits and create long-term changes that become a natural part of who you are in the new year."
 date = 2023-01-05T13:21:00+03:00
 publishDate = 2023-01-05T00:00:00+03:00
-tags = ["productivity", "habits"]
+
 draft = false
+
+[taxonomies]
+tags = ["productivity", "habits"]
 +++
 
 As we start a new year, many of us set resolutions and goals for ourselves. We often focus on the outcomes we want to achieve, such as losing weight or quitting smoking. But what if we took a different approach and focused on becoming the type of person who can achieve those goals?

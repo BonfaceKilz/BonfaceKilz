@@ -1,9 +1,13 @@
 +++
 title = "Setting up Docker on an ARMv7 Processor that Runs Fedora 22"
 description = "This is a short post on my docker set up on an ARM processor that runs Fedora 22"
+
+
+date = "2017-11-17T20:03:00+03:00"
+
+[taxonomies]
 tags = ["howto", "linux", "software"]
 categories = ["howto", "linux", "software"]
-date = "2017-11-17T20:03:00+03:00"
 +++
 
 Docker has come in handy for some dev work I've been doing. It has provided a clear way to avoid polluting the global namespace with unnecessary programs in addition to availing a simple way for easy and fast simulation of a target environment without much hassle.

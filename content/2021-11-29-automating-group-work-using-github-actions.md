@@ -6,8 +6,11 @@ description = """
   """
 date = 2021-11-29T17:57:00+03:00
 publishDate = 2021-11-29T00:00:00+03:00
-tags = ["latex", "typesetting"]
+
 draft = false
+
+[taxonomies]
+tags = ["latex", "typesetting"]
 +++
 
 During our group assignment, my group was assigned to do a case study

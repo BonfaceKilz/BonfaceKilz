@@ -1,10 +1,13 @@
 +++
-categories = ["Emacs"]
+
 date = "2017-06-18T19:31:56+03:00"
 description = "The describe system in GNU Emacs"
-tags = ["emacs", "productivity"]
+
 title = "Useful Describe Keys in Emacs"
 
+[taxonomies]
+tags = ["emacs", "productivity"]
+categories = ["Emacs"]
 +++
 
 > What captures the beauty of Emac's self-documenting nature is

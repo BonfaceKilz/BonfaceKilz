@@ -1,9 +1,13 @@
 +++
-categories = ["y"]
+
 date = "2017-07-23T19:31:38+03:00"
 description = "Using Gulp to automate tasks and using Nunjucks as a template engine. This articles explains the basics of doing so"
-tags = ["howto", "productivity", "programming"]
+
 title = "Modularising & Automating your workflow using Gulp and Nunjucks"
+
+[taxonomies]
+tags = ["howto", "productivity", "programming"]
+categories = ["y"]
 +++
 
 This weekend, I thought it would be cool to discuss my current web dev workflow here. I realised that writing websites is a pain to some. Some of the stuff I discuss here have been around for quite a while yet alot of people don't use 'em. In this article, I talk about some *gulp recipés* and `nunjucks`- a really cool javascript templating engine. I hope this turns out to be useful to someone out there.

@@ -3,8 +3,11 @@ title = "Reading Technical Material"
 description = "How to read technical material"
 date = 2021-11-23T18:21:00+03:00
 publishDate = 2021-11-23T00:00:00+03:00
-tags = ["reading"]
+
 draft = false
+
+[taxonomies]
+tags = ["reading"]
 +++
 
 In my day-to-day activities, I find myself consuming a lot of content;

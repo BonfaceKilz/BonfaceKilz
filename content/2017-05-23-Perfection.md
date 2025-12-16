@@ -1,10 +1,13 @@
 +++
-categories = ["life", "philosophy"]
+
 date = "2017-05-23T11:44:59+03:00"
 description = "Better a diamond with a flaw than a pebble without"
-tags = ["life", "philosophy"]
+
 title = "Perfection"
 
+[taxonomies]
+tags = ["life", "philosophy"]
+categories = ["life", "philosophy"]
 +++
 **TL;DR Build a working model first. Optimize and refine later.**
 

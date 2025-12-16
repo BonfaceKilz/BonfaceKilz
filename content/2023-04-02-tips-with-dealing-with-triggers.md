@@ -3,8 +3,11 @@ title = "When you feel yourself triggered, follow this simple framework"
 description = "How to calm yourself down during a triggering situation"
 date = 2023-04-02T01:22:00+03:00
 publishDate = 2023-04-02T00:00:00+03:00
-tags = ["life-tips"]
+
 draft = false
+
+[taxonomies]
+tags = ["life-tips"]
 +++
 
 [This is from one of James Clear's [newsletter](https://jamesclear.com/3-2-1) - I can't recollect which one in particular]

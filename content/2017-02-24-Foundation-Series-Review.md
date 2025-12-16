@@ -7,8 +7,9 @@ tags = [
     ]
 description = "A review of Isaac Asimov's Foundation Trilogy"
 title = "The Foundation Series- A Review"
-categories = ["Book Reviews"]
 
+[taxonomies]
+categories = ["Book Reviews"]
 +++
 
 

@@ -3,8 +3,11 @@ title = "Sending Patches with Git: A Guide"
 description = "Learn how to easily send patches from the command line using 'git send-email' and make interactive changes with 'git rebase -i'"
 date = 2023-01-03T23:34:00+03:00
 publishDate = 2022-12-21T00:00:00+03:00
-tags = ["email", "git", "guix", "command-line", "patches"]
+
 draft = false
+
+[taxonomies]
+tags = ["email", "git", "guix", "command-line", "patches"]
 +++
 
 Are you tired of the tedious process of sending patches through your email client? Do you long for a simpler solution? Look no further! With just a few easy commands, you can send your patches straight from the command line.

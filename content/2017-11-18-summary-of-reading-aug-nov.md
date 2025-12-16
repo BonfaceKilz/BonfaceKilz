@@ -1,9 +1,13 @@
 +++
 title = "Summary of Reading: August - November 2017"
 description = "A summary of all the books I have read during this time"
+
+
+date = "2017-11-18T20:00:00+03:00"
+
+[taxonomies]
 tags = ["reviews"]
 categories = ["Book Reviews"]
-date = "2017-11-18T20:00:00+03:00"
 +++
 
 Writing reviews can be a huge time sink, especially if you do alot of reading. Instead of writing full reviews, I will be posting a list of books I have read or re-read, once in a couple of months. Each list item will be accompanied by a very short review(a few sentences at most). Some books that lie on extremes, either too good or too bad, will warrant a full review.

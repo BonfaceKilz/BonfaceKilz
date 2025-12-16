@@ -2,8 +2,11 @@
 title = "Troubleshooting Tmux"
 description = "Troubleshooting Tmux"
 date = 2022-01-10T16:51:00+03:00
-tags = ["linux"]
+
 draft = false
+
+[taxonomies]
+tags = ["linux"]
 +++
 
 For a while now, whenever I ran Tmux in my EXWM session, I always got

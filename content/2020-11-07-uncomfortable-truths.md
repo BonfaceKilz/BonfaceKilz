@@ -2,8 +2,11 @@
 title = "Uncomfortable Truths"
 description = "Some uncomfortable truths from daily living"
 date = 2020-11-07T23:43:00+03:00
-tags = ["life", "philosophy"]
+
 draft = false
+
+[taxonomies]
+tags = ["life", "philosophy"]
 +++
 
 _[Original Source](https://twitter.com/orangebook%5F/status/1325142402567376898)_

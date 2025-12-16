@@ -5,8 +5,11 @@ description = """
   writer's block.
   """
 date = 2022-11-27T21:29:00+03:00
-tags = ["Blog", "productivity", "notes", "life-tips", "how-to"]
+
 draft = false
+
+[taxonomies]
+tags = ["Blog", "productivity", "notes", "life-tips", "how-to"]
 +++
 
 [CREDIT: [@dickiebush](https://twitter.com/dickiebush) posted [this](https://twitter.com/dickiebush/status/1577657196179066883) and [this](https://twitter.com/dickiebush/status/1495040906768097287?s=20&t=HSTRBvD7doTrhZsdnifXLg) on twitter]

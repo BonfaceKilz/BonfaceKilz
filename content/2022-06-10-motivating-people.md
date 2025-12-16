@@ -5,8 +5,11 @@ description = """
   reciprocate the energy they receive.
   """
 date = 2022-06-10T11:12:00+03:00
-tags = ["life-tips"]
+
 draft = false
+
+[taxonomies]
+tags = ["life-tips"]
 +++
 
 Today, I came across this interesting quote from

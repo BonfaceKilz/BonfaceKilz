@@ -1,10 +1,13 @@
 +++
-categories = ["Hardware & Gadgets"]
+
 date = "2017-07-06T07:28:39+03:00"
 description = "Finally fixing the kindle 4 NT"
-tags = ["Hardware & Gadgets"]
+
 title = "Debricking Kindle 4NT part II"
 
+[taxonomies]
+tags = ["Hardware & Gadgets"]
+categories = ["Hardware & Gadgets"]
 +++
 
 *Definitions:* Kindle 4 is also known as K4NT, K4 Non-Touch, K4S(silver) of K4B(black). The words debrick and debricking can also be called unbrick, unbricking, recover, recovery, repair, repairing, restore, restoring, restoration, or brick fix.

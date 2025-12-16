@@ -2,8 +2,11 @@
 title = "Motherhood - An Essay"
 description = "Random musings on motherhood"
 date = 2019-02-03T00:00:00+03:00
-tags = ["life"]
+
 draft = false
+
+[taxonomies]
+tags = ["life"]
 +++
 
 > **Teach girls it's okay to not want kids. Or even like that.**

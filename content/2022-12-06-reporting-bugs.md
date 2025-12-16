@@ -3,8 +3,11 @@ title = "Reporting Bugs (Getting Help)"
 description = "How to report bugs in a meaningful way."
 date = 2022-12-06T15:21:00+03:00
 publishDate = 2022-11-28T00:00:00+03:00
-tags = ["programming", "software", "how-to"]
+
 draft = false
+
+[taxonomies]
+tags = ["programming", "software", "how-to"]
 +++
 
 [Credits: [anthonyexplains #340](https://www.youtube.com/watch?v=ritp4gAqNMI)]

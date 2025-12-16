@@ -6,8 +6,9 @@ tags = [
 description = "My first time going to church in a long time"
 title = "Church and Fasting"
 date = "2017-03-20"
-categories = ["Life"]
 
+[taxonomies]
+categories = ["Life"]
 +++
 
 Today, I went to church at Woodley. Well, this is sort of a big deal for me. It was my first time to go to a church in a very long long time. Anyway, this [one]time, I went to a religious institution with an open mind- not asking questions. I wanted to see if I could learn something religious. I'm kinda [slowly] finding my way in religion, and what better way to do this than by going to a church? The rest of this post will discuss stuff I learnt from church. I really hoped I could get some of the slides that were used, but meh, church bureacracy's not my thing.

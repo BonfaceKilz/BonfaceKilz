@@ -1,6 +1,6 @@
 +++
 date = "2017-03-01T19:18:46+03:00"
-categories = ["All Things Coding, Life"]
+
 tags = [
     "lfs", 
     "linux", 
@@ -8,6 +8,8 @@ tags = [
 description = "Frustrations when building my LFS system"
 title = "LFS(Linux From Scratch) Frustrations"
 
+[taxonomies]
+categories = ["All Things Coding, Life"]
 +++
 
 Well, today has been frustrating. Very frustrating. I've been working on the whole LFS project for over 13 hours now[Compiling can be a biaaaaachh wo0t!]. I reached section 6.10(Adjusting the Toolchain) [here](http://www.linuxfromscratch.org/lfs/view/stable/chapter06/adjusting.html ). This is where my problems began.

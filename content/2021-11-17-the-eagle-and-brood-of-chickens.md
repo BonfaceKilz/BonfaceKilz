@@ -3,8 +3,11 @@ title = "The Eagle and Brood of Chickens"
 description = "A parable on the eagle and brood of chickens"
 date = 2021-11-17T13:20:00+03:00
 publishDate = 2021-10-30T00:00:00+03:00
-tags = ["life"]
+
 draft = false
+
+[taxonomies]
+tags = ["life"]
 +++
 
 This was lurking around some where in my org file, and I thought it

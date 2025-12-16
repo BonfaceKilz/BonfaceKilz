@@ -3,8 +3,11 @@ title = "Guiding Questions When Reading"
 description = "A set of useful guiding questions you can use when reading."
 date = 2023-04-02T01:02:00+03:00
 publishDate = 2023-04-02T00:00:00+03:00
-tags = ["reading"]
+
 draft = false
+
+[taxonomies]
+tags = ["reading"]
 +++
 
 Here are some useful set of questions you can ask yourself when reading something:

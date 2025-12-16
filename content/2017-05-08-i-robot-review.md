@@ -1,10 +1,13 @@
 +++
-categories = ["reviews"]
+
 date = "2017-05-08T16:44:21+03:00"
 description = "A review of I, Robot, by Isaac Asimov"
-tags = ["reviews", "society", "philosophy"]
+
 title = "I, Robot - A Review"
 
+[taxonomies]
+tags = ["reviews", "society", "philosophy"]
+categories = ["reviews"]
 +++
 
 Ever come across any of these rules for robots(or any intelligent machine)?

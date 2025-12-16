@@ -2,8 +2,11 @@
 title = "Troubleshooting a Wrong Computer System Clock"
 description = "Troubleshooting a time-relate error in my system"
 date = 2022-06-29T14:18:00+03:00
-tags = ["linux"]
+
 draft = false
+
+[taxonomies]
+tags = ["linux"]
 +++
 
 I got this error sometime today after doing a system upgrade:

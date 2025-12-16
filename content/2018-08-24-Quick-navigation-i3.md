@@ -1,9 +1,13 @@
 +++
 title = "Quick Navigation in i3 Using Focus"
 description = "A productivity for quick navigation in i3"
+
+
+date = "2018-08-24"
+
+[taxonomies]
 tags = ["software", "linux"]
 categories = ["linux"]
-date = "2018-08-24"
 +++
 
 _This is a brief hack for quick navigation using the [i3 window manager](https://i3wm.org/)._

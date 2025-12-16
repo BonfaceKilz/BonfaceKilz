@@ -1,10 +1,13 @@
 +++
-categories = ["Reviews"]
+
 date = "2017-06-15T10:38:56+03:00"
 description = "A book review of the book, Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch"
-tags = ["reviews", "society"]
+
 title = "Book Review: Good Omens by Terry Pratchett and Neil Gaiman"
 
+[taxonomies]
+tags = ["reviews", "society"]
+categories = ["Reviews"]
 +++
 
 I originally stumbled across this book when skimming through one of those listopia lists on the interwebs. I was sold on the idea of religion, end times, the antichrist, and humor all brewed together in one plot by accomplished authors.

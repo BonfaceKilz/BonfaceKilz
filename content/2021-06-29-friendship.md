@@ -3,8 +3,11 @@ title = "Friendship"
 description = "An ode to friendship"
 date = 2021-06-29T11:25:00+03:00
 publishDate = 2021-06-25T00:00:00+03:00
-tags = ["life", "friendship"]
+
 draft = false
+
+[taxonomies]
+tags = ["life", "friendship"]
 +++
 
 This is something I found from one of James Clear's newsletters:

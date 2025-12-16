@@ -1,7 +1,7 @@
 +++
 title = "Introduction to SICP Reading Notes"
 date = "2017-02-21T18:11:51+03:00"
-categories = ["SICP"]
+
 tags = [
     "programming", 
     "sicp", 
@@ -9,6 +9,8 @@ tags = [
 ]
 description = "A short introduction to by project of reading sicp"
 
+[taxonomies]
+categories = ["SICP"]
 +++
 
 # Introducing the "SICP" reading notes #

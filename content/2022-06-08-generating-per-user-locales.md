@@ -5,8 +5,11 @@ description = """
   terminal characters
   """
 date = 2022-06-08T11:47:00+03:00
-tags = ["terminal", "linux", "guix"]
+
 draft = false
+
+[taxonomies]
+tags = ["terminal", "linux", "guix"]
 +++
 
 For a while now---in the terminal(kitty)---your

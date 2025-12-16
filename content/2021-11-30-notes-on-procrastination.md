@@ -2,8 +2,11 @@
 title = "Procrastination– Notes"
 description = "My notes on procrastination."
 date = 2021-11-30T12:25:00+03:00
-tags = ["productivity"]
+
 draft = false
+
+[taxonomies]
+tags = ["productivity"]
 +++
 
 This are my notes from the app "Intellect":

@@ -1,10 +1,13 @@
 +++
-categories = ["Reviews"]
+
 date = "2017-08-12T13:00:41+03:00"
 description = "A book review of the book: The First Fifteen Lives of Harry August by Claire North"
-tags = ["reviews", "society", "life", "sci-fi"]
+
 title = "Book Review: The First Fifteen Lives of Harry August by Claire North"
 
+[taxonomies]
+tags = ["reviews", "society", "life", "sci-fi"]
+categories = ["Reviews"]
 +++
 
 A friend recommended this book a while back during some part-time random coding stint. At first, I was a bit skeptical about reading this book as I had quite alot of literature to go through. Eventually I did come around to reading this book and boy, was it a thrill.

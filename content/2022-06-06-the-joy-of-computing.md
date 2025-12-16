@@ -3,8 +3,11 @@ title = "The Joy of Computing"
 description = "A quote from Alan J. Perlis"
 date = 2022-06-06T23:56:00+03:00
 publishDate = 2022-06-06T00:00:00+03:00
-tags = ["software"]
+
 draft = false
+
+[taxonomies]
+tags = ["software"]
 +++
 
 Here's a quote---front page of SICP---by Alan

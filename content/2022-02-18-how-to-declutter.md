@@ -3,8 +3,11 @@ title = "How To De-clutter"
 description = "How de-clutter things"
 date = 2022-02-18T14:45:00+03:00
 publishDate = 2022-02-15T00:00:00+03:00
-tags = ["life-tips"]
+
 draft = false
+
+[taxonomies]
+tags = ["life-tips"]
 +++
 
 Here are some things I noted down when researching how to de-clutter things, and make things more neater:
