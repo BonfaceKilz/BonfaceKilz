@@ -15,7 +15,7 @@ Commit messages are an important part of the software development process, as th
 
 Personally, I stick to the [ChangeLog commit style](https://www.conventionalcommits.org/en/v1.0.0/).  Another alternative is the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).  I prefer the former to the latter.  To illustrate "why", say we modified a python function with tho following commit (obtained from the conventionalcommits website):
 
-```text
+```txt
 fix: prevent racing of requests
 
 Introduce a request id and a reference to latest request. Dismiss
@@ -30,7 +30,7 @@ Refs: #123
 
 Here's how that would look like in a ChangeLog style:
 
-```text
+```txt
 Prevent racing of requests
 
 * app/process_requests.py (process_response):

@@ -9,7 +9,7 @@ draft = false
 
 Today in the evening, when I wanted to sign my commits in [magit](https://magit.vc/), I came across this error:
 
-```text
+```txt
     hint: Waiting for your editor to close the file...
     Waiting for Emacs...
     error: gpg failed to sign the data
@@ -18,7 +18,7 @@ Today in the evening, when I wanted to sign my commits in [magit](https://magit.
 
 This log message was not really helpful so I went ahead and tried to sign something in my terminal: `echo "test" | gpg --clearsign`. I got a more useful log:
 
-```text
+```txt
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA256
 
@@ -36,7 +36,7 @@ export GPG_TTY
 
 This fixed the error I was seeing at my terminal but then I couldn't still sign things from [magit](https://magit.vc/). Running `pkg info pinentry` showed that I was using the tty version of the program (pinentry):
 
-```text
+```txt
 Options        :
         FLTK           : off
         GNOME3         : off

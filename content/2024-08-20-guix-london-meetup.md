@@ -11,7 +11,7 @@ draft = false
 -   Guix RDE makes the email set-up easy to work with.
     -   Check out:
 
-        ```text
+        ```bash
         mumi search author:jgart
         mumi search submitter:jgart
         mumi search is:open
@@ -22,7 +22,7 @@ draft = false
 
 -   Compose email:
 
-    ```text
+    ```bash
     mumi compose
     mumi compose --close
     mumi compose --done
@@ -30,21 +30,21 @@ draft = false
 
 -   Current ticket:
 
-    ```text
+    ```bash
     mumi current
     mumi current <ticket-number>
     ```
 
 -   Mumi am:
 
-    ```text
+    ```bash
     mumi current
     mumi am -- -S -s
     ```
 
 -   Check deps:
 
-    ```text
+    ```bash
     guix refresh -l foo
     ```
 

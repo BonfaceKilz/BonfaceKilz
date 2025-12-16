@@ -30,7 +30,7 @@ draft = false
 
 <!--listend-->
 
-```elisp
+```el
 (use-package slime
   :ensure t
   :mode ("\\.lisp\\'")

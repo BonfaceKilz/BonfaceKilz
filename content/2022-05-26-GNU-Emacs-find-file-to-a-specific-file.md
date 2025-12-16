@@ -11,7 +11,7 @@ making "find-file" to open a buffer/file and go to
 a specific line number. With this useful [advice](https://www.gnu.org/software/emacs/manual/html_node/elisp/Advising-Functions.html),
 you can achieve this:
 
-```elisp
+```el
 ;; Open files and goto lines like we see from g++ etc. i.e. file:line#
 ;; (to-do "make `find-file-line-number' work for emacsclient as well")
 ;; (to-do "make `find-file-line-number' check if the file exists")

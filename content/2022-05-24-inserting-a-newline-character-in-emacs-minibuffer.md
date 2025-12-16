@@ -29,7 +29,7 @@ inserts it---a useful thing when inserting control
 characters. Here's an example how to insert a
 newline control sequence:
 
-```text
+```txt
 C-q C-j
 ```
 

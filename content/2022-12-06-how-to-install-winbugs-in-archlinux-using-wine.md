@@ -14,13 +14,13 @@ WinBugs is a statistical software tool that's built to explicitly run on Windows
 
 To install WINE in ArchLinux, first enable the [multilib](https://wiki.archlinux.org/title/Multilib) repository and thereafter install WINE by running:
 
-```text
+```txt
 sudo pacman -S wine
 ```
 
 Next install all the necessary Windows fonts:
 
-```text
+```txt
 yay -S ttf-ms-win1{0,1}-auto
 ```
 
@@ -28,7 +28,7 @@ Since I have a high-dpi screen, I had to to adjust the font-size in wine by typi
 
 To be able to run windows programs directly as if you had typed: `wine ./myprogram.exe`:
 
-```text
+```txt
 sudo systemctl start systemd-binfmt.service
 ```
 

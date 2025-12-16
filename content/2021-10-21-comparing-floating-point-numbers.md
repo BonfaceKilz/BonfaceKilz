@@ -17,7 +17,7 @@ print(0.3 * 3 + 0.1)
 
 We get:
 
-```text
+```txt
 0.9999999999999999
 ```
 
@@ -32,7 +32,7 @@ print((0.3 * 3 + 0.1) == 1)
 
 Which outputs:
 
-```text
+```txt
 False
 ```
 
@@ -48,7 +48,7 @@ print(abs((0.3 * 3 + 0.1) - 1) < ϵ)
 
 which now correctly outputs
 
-```text
+```txt
 True
 ```
 

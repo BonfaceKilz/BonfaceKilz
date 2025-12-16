@@ -16,13 +16,13 @@ layout kept resetting to QWERTY.
 To keep my keyboard layout persistent, I had to play around with udev
 rules to get the targettable identity of my keyboard:
 
-```text
+```txt
 sudo lsusb | grep board
 ```
 
 This yielded:
 
-```text
+```txt
 Bus 001 Device 003: ID 258a:0016 BY Tech Usb Gaming Keyboard
 ```
 
@@ -30,13 +30,13 @@ Bus 001 Device 003: ID 258a:0016 BY Tech Usb Gaming Keyboard
 keyboard. Now to add an udev rules in
 "/etc/udev/rules.d/gaming\_keyboard.rules":
 
-```text
+```txt
 ACTION=="add", ATTRS{idVendor}=="258a", ATTRS{idProduct}=="0016", ENV{XKBMODEL}="pc104", ENV{XKBLAYOUT}="us", ENV{XKBVARIANT}="dvp", ENV{XKBOPTIONS}="ctrl:nocaps"
 ```
 
 After that, I had to restart udev rules by running:
 
-```text
+```txt
 sudo udevadm control --reload
 ```
 

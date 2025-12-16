@@ -18,7 +18,7 @@ over my home network:
 -   First, install all the necessary packages from
     ArchLinux:
 
-```text
+```txt
 sudo pacman -S cups avahi nss-mdns hplip
 ```
 
@@ -53,13 +53,13 @@ sudo pacman -S cups avahi nss-mdns hplip
 -   Next make sure that the relevant services are
     enabled/started:
 
-```text
+```txt
 sudo systemctl enable cups avahi-daemon.service
 ```
 
 -   Thereafter, scan for the printer:
 
-```text
+```txt
 lpinfo --include-schemes dnssd -v
 ```
 

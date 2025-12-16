@@ -20,20 +20,20 @@ window with just that file in. From this window,
 you can drag your file to a target. This is as
 simple as:
 
-```text
+```txt
 dragon myfile
 ```
 
 Note that the above command will not close the window once it completes. To close the window once you are done:
 
-```text
+```txt
 dragon myfile --and-exit
 ```
 
 Personally, I use "dired-dragon", an emacs wrapper
 around this tool. My configs are:
 
-```elisp
+```el
 (use-package dired-dragon
   :straight (:host github
              :repo "jeetelongname/dired-dragon")

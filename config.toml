@@ -1,0 +1,56 @@
+# The URL the site will be built for
+base_url = "https://blog.bonfacemunyoki.com"
+title = "Munyoki Kilyungi's Personal Blog"
+theme = "radion"
+description = "My personal blog"
+generate_feeds = true
+default_language = "en"
+
+# Default author for pages
+author = "Munyoki Kilyungi"
+
+taxonomies = [
+    # You can enable/disable RSS
+    { name = "categories" },
+    { name = "tags" },
+]
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[search]
+index_format = "elasticlunr_json"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "one-dark", filename = "syntax/syntax-theme-dark.css" },
+  { theme = "gruvbox-dark", filename = "syntax/syntax-theme-light.css" },
+]
+insert_anchor_links = "heading"
+
+[extra]
+favicon = "/icons/favicon.ico"
+comments = false
+theme = "toggle"
+enable_search = true
+codeblock = true
+latex = true
+github = "https://github.com/BonfaceKilz"
+fediverse.creator = "@saitama@hachyderm.io"
+fediverse.rel_me = "https://hachyderm.io/@saitama"
+mastodon = "https://hachyderm.io/@saitama"
+x = "https://x.com/MunyokiKilyungi"
+radion_title = "Fold left through chaos, fold right through sanity!"
+radion_menu = [
+    { url = "$BASE_URL", name = "Home" },
+    { url = "$BASE_URL/categories/", name = "Categories" },
+    { url = "$BASE_URL/tags/", name = "Tags" },
+    {url = "https://bonfacemunyoki.com/", name = "Main"}
+]

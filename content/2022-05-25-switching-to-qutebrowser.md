@@ -32,7 +32,7 @@ addresses this issue has not been applied in GNU
 Guix upstream. To fix this issue, I had to add
 this to my `~/.config/qutebrowser/config.py`:
 
-```text
+```txt
 c.qt.args = ['disable-seccomp-filter-sandbox']
 ```
 

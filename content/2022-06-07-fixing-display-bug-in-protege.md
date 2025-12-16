@@ -25,7 +25,7 @@ repositories.
 
 Installing the tool in Arch Linux was easy:
 
-```text
+```txt
 sudo pacman -S protege
 ```
 
@@ -39,7 +39,7 @@ Luckily for your author, this is a well known
 [issue](https://github.com/protegeproject/protege/issues/641) with a straight-forward solution; simply run
 "protege" with some special flag like so:
 
-```text
+```txt
 _JAVA_AWT_WM_NONREPARENTING=1 protege
 ```
 

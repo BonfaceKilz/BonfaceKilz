@@ -14,7 +14,7 @@ Ever since I rejected my previous job's contract offer(more on that in another p
 
 Whilst in the BSD universe, I encountered a bunch of problems, biggest among them is playing audio in my system. Initially, I thought it was a driver problem; perhaps I did not set up some audio driver properly. This however did not make any sense because I followed the [sound card setup](https://www.freebsd.org/doc/handbook/sound-setup.html) instructions from the FreeBSD kernel faithfully. Also, I could see that my sound card drivers were properly loaded by running: `# cat /dev/sndstat` whose output was:
 
-```text
+```txt
 pcm0: <Intel Haswell (HDMI/DP 8ch)> (play)
 pcm1: <Intel Haswell (HDMI/DP 8ch)> (play)
 pcm2: <Intel Haswell (HDMI/DP 8ch)> (play)
@@ -27,7 +27,7 @@ What to do? The first thing I did was to reproduce the problem. I like doing thi
 
 The results were encouraging: The audio was only broken in Firefox(FF). To debug the firefox audio problem, I checked the post-installation notes about audio from the maintainers by running: `pkg info -xD firefox`. Fortunately, there was something in there that was useful:
 
-```text
+```txt
 ## Audio backend
 
 To select non-default audio backend open `about:config` page and

@@ -12,7 +12,7 @@ Today, I just successfully hacked on one such way.
 Before we go any further, let's look at org-src blocks (wrt Python) basics.
 A python org-mode section looks like this:
 
-```org
+```txt
 #+begin_src python :results output
 [...]
 #+end_src
@@ -20,7 +20,7 @@ A python org-mode section looks like this:
 
 With the above source block, you can optionally choose the Python binary (with the ":python" header) you want to run:
 
-```org
+```txt
 #+begin_src python :results output :python /path/to/python/binary
 [...]
 #+end_src
@@ -31,7 +31,7 @@ Since you can point org-mode to a binary of your choice, you can also also ideal
 With the knowledge that you have these powers, you could use Guix to install your python packages in a given profile.
 Here's an example of installing `python`, `python-scipy`, and `python-numpy` to the "python-science" profile located in "~/opt":
 
-```text
+```txt
 guix shell python python-scipy python-numpy -p ~/opt/python-science
 ```
 
@@ -49,7 +49,7 @@ Now, we can install isolated python binaries with their "PYTHONPATH" and use tha
 Of course, although it remains unexplored, you can apply the same with virtual environments.
 Now, the end org-mode src-block would look something like this;
 
-```org
+```txt
 #+begin_src python :results output :python ~/bin/,python-science
 import scipy
 #+end_src

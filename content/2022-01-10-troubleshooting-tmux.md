@@ -9,19 +9,19 @@ draft = false
 For a while now, whenever I ran Tmux in my EXWM session, I always got
 this annoying warning message:
 
-```text
+```txt
 /usr/lib/Xorg.wrap: Only console users are allowed to run the X serve
 ```
 
 The problem lay in my `.zlogin` file where I had:
 
-```text
+```txt
 startx
 ```
 
 I replaced the above with:
 
-```text
+```txt
 [ -z "$DISPLAY" ] && [ $XDG_VTNR -eq 1 ] && exec startx
 ```
 

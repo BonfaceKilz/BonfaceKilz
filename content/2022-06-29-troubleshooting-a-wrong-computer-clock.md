@@ -16,6 +16,6 @@ I got this error sometime today after doing a system upgrade:
 
 I fixed it by running:
 
-```text
+```txt
 sudo timedatectl set-ntp true
 ```
