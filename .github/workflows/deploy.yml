@@ -28,7 +28,7 @@ jobs:
           sed -i s/GOOGLE-ANALYTICS-REPLACE/${{ secrets.GA }}/g config.toml
           hugo
 
-      - name: Install SSH Key
+      - name: Install SSH Keys
         run: |
           install -m 600 -D /dev/null ~/.ssh/id_rsa
           echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_rsa
