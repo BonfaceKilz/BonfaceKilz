@@ -37,7 +37,6 @@ insert_anchor_links = "heading"
 
 [extra]
 favicon = "/icons/favicon.ico"
-comments = false
 theme = "toggle"
 enable_search = true
 codeblock = true
