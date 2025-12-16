@@ -1,39 +1,32 @@
-name: Deploy Hugo Site
+name: Deploy Personal Blog
 
 on:
   push:
-    branches: ["master"]
-  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
-  build:
-    name: Build and Deploy
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Setup Hugo
-        env:
-          HUGO_VERSION: 0.40.1
+      - name: Install Zola
         run: |
-          mkdir ~/hugo
-          cd ~/hugo
-          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
-          tar -xvzf hugo.tar.gz
-          sudo mv hugo /usr/local/bin
+          curl -L https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-x86_64-unknown-linux-musl.tar.gz -o zola.tar.gz
+          tar -xvf zola.tar.gz
+          sudo mv zola /usr/local/bin/
 
-      - name: Build
-        run: |
-          sed -i s/GOOGLE-ANALYTICS-REPLACE/${{ secrets.GA }}/g config.toml
-          hugo
+      - name: Build site
+        run: zola build
 
-      - name: Install SSH Keys
-        run: |
-          install -m 600 -D /dev/null ~/.ssh/id_rsa
-          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_rsa
-          ssh-keyscan 51.15.100.69 >> ~/.ssh/known_hosts
-
-      - name: Deploy
-        run: |
-          rsync -r --quiet --delete-after public/* bonface@51.15.100.69:/home/bonface/bonfacemunyoki.com
+      - name: Deploy via rsync
+        uses: burnett01/rsync-deployments@v8
+        with:
+          switches: -avz --delete
+          path: public/
+          remote_path: /var/www/blog
+          remote_host: bonfacemunyoki.com
+          remote_user: blog
+          private_key: ${{ secrets.DEPLOY_KEY }}
