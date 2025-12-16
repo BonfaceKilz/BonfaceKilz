@@ -54,3 +54,5 @@ radion_menu = [
     { url = "$BASE_URL/tags/", name = "Tags" },
     {url = "https://bonfacemunyoki.com/", name = "Main"}
 ]
+revision_history = true
+blog_github_repo_url = "https://github.com/BonfaceKilz/BonfaceKilz.git"
