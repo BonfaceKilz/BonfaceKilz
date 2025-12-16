@@ -31,4 +31,4 @@ jobs:
           remote_path: /var/www/blog
           remote_host: bonfacemunyoki.com
           remote_user: blog
-          private_key: ${{ secrets.DEPLOY_KEY }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
