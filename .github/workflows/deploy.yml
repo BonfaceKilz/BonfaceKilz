@@ -14,6 +14,11 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Install Rsync
+        run: |
+          sudo apt-get update
+          sudo apt-get install rsync
+
       - name: Install Zola
         run: |
           curl -L https://github.com/getzola/zola/releases/download/v0.21.0/zola-v0.21.0-x86_64-unknown-linux-musl.tar.gz -o zola.tar.gz
