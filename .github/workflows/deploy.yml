@@ -29,6 +29,6 @@ jobs:
           switches: -avz --delete
           path: public/
           remote_path: /var/www/blog
-          remote_host: bonfacemunyoki.com
+          remote_host: ${{ secrets.HOST }}
           remote_user: blog
           remote_key: ${{ secrets.DEPLOY_KEY }}
