@@ -56,3 +56,7 @@ radion_menu = [
 ]
 revision_history = true
 blog_github_repo_url = "https://github.com/BonfaceKilz/BonfaceKilz.git"
+comments = true
+giscus_repo = "BonfaceKilz/BonfaceKilz"
+giscus_repo_id = "MDEwOlJlcG9zaXRvcnk4ODIwMzU0Nw=="
+giscus_data_category_id = "DIC_kwDOBUHhG84Cz4_t"
