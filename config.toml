@@ -54,7 +54,7 @@ radion_menu = [
     {url = "https://bonfacemunyoki.com/", name = "Main"}
 ]
 revision_history = true
-blog_github_repo_url = "https://github.com/BonfaceKilz/BonfaceKilz.git"
+blog_github_repo_url = "https://github.com/BonfaceKilz/BonfaceKilz"
 comments = true
 giscus_repo = "BonfaceKilz/BonfaceKilz"
 giscus_repo_id = "MDEwOlJlcG9zaXRvcnk4ODIwMzU0Nw=="
