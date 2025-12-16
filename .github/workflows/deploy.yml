@@ -31,7 +31,7 @@ jobs:
       - name: Deploy via rsync
         uses: burnett01/rsync-deployments@v8
         with:
-          switches: -avz --delete
+          switches: -avzr --delete --exclude='.git/'
           path: public/
           remote_path: /var/www/blog
           remote_host: ${{ secrets.HOST }}
