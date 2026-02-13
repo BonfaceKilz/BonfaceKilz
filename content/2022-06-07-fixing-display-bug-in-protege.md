@@ -10,7 +10,7 @@ date = 2022-06-07T13:59:00+03:00
 draft = false
 
 [taxonomies]
-tags = ["howto"]
+tags = ["how-to"]
 +++
 
 Your dear author is learning how to create an

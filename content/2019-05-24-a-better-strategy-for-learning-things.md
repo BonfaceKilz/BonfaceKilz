@@ -20,7 +20,7 @@ _**Why?**_ Why is the specific thing you've determined above worth the effort? <
 <i>GraphQl provides an easy way to consume API's. Also, there's a high possibility we may adopt it for work on some of our projects(my boss hinted at that).</i>
 
 _**How?**_ How do you want to learn how to learn the aforementioned? <br/>
-<i>I'll follow along the graphql tutorial [here](https://www.howtographql.com/graphql-python/4-authentication/). Also, I'll adapt graphql to a pet project I'm working on in collaboration with my [brother](https://github.com/jnduli). Finally, I'll try to read the graphql [spec](https://graphql.github.io/graphql-spec/draft/).</i>
+<i>I'll follow along the graphql tutorial [here](https://www.how-tographql.com/graphql-python/4-authentication/). Also, I'll adapt graphql to a pet project I'm working on in collaboration with my [brother](https://github.com/jnduli). Finally, I'll try to read the graphql [spec](https://graphql.github.io/graphql-spec/draft/).</i>
 
 _**When?**_ When will you be 'doing the how'? <br/>
 <i>For me, at least once in two days before I go to sleep.</i>

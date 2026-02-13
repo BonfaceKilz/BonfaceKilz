@@ -6,7 +6,7 @@ date = 2021-01-31T12:43:00+03:00
 draft = false
 
 [taxonomies]
-tags = ["howto", "linux"]
+tags = ["how-to", "linux"]
 +++
 
 I use the [dvorakp](https://www.dvorak-keyboard.com/) keyboard layout, and the other day, I got a manual

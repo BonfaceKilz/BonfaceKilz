@@ -7,7 +7,7 @@ publishDate = 2022-06-13T00:00:00+03:00
 draft = false
 
 [taxonomies]
-tags = ["linux", "howto"]
+tags = ["linux", "how-to"]
 +++
 
 I have a "HP DeskJet Ink Advantage 4535" printer

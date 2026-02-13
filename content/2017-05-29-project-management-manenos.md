@@ -6,7 +6,7 @@ description = "Lessons from my elder brother"
 title = "Project Management Philosophies"
 
 [taxonomies]
-tags = ["philosophy", "project management", "howto"]
+tags = ["philosophy", "project management", "how-to"]
 categories = ["philosophy"]
 +++
 

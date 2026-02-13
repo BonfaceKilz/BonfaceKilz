@@ -6,7 +6,7 @@ date = 2019-11-25T16:55:00+03:00
 draft = false
 
 [taxonomies]
-tags = ["freebsd", "howto"]
+tags = ["freebsd", "how-to"]
 +++
 
 > **Each new user of a system uncovers a new class of bugs.**

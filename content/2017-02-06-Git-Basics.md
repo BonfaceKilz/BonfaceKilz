@@ -1,7 +1,7 @@
 +++
 
 tags = [
-    "howto", 
+    "how-to",
     "git",
 ]
 description = "Using git"

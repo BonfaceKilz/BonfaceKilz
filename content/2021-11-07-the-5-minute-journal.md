@@ -7,7 +7,7 @@ publishDate = 2021-10-27T00:00:00+03:00
 draft = false
 
 [taxonomies]
-tags = ["howto", "life"]
+tags = ["how-to", "life"]
 +++
 
 I've been maintaining a [Bullet Journal](https://bulletjournal.com/) since around 2018.  A former

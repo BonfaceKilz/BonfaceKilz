@@ -6,7 +6,7 @@ date = 2020-01-19T19:09:00+03:00
 draft = false
 
 [taxonomies]
-tags = ["freebsd", "docker", "howto"]
+tags = ["freebsd", "docker", "how-to"]
 +++
 
 Right now, you can't run docker natively on FreeBSD. I understand that there are
