@@ -42,9 +42,15 @@ A poem a friend of mine recently shared:
 > It passes as you stop bracing and start softening.
 > 
 > It will pass...
+>
 > the uncertainty;
+>
 > the overwhelm;
+>
 > the heaviness;
+>
 > the fear;
+>
 > the struggle;
+>
 > the anxiety.
