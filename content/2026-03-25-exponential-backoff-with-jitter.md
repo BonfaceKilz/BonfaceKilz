@@ -85,7 +85,7 @@ def fetch_with_retry(
 ```
 
 Key Elements: 
-- Exponential factor: base_delay * (2 ** attempt)
+- Exponential factor: `base_delay * (2 ** attempt)`
   - Attempt 0 → 2 seconds
   - Attempt 1 → 4 seconds
   - Attempt 2 → 8 seconds
